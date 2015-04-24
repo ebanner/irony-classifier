@@ -5,6 +5,7 @@ talk to the database.
 @TODO clean up
 """
 
+import os
 import pdb
 import sqlite3
 import sys
@@ -59,6 +60,7 @@ i.e., this is you use in the 'agreement' function
 
 #db_path = "/Users/bwallace/dev/computational-irony/data-11-30/ironate.db"
 config = configparser.ConfigParser()
+print 'PWD!!!!! {}'.format(os.getcwd())
 config.read("irony.ini")
 
 # train database (used during development)

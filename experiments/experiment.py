@@ -1,9 +1,11 @@
-from annotation_stats import *
+import annotation_stats as db
+
+import sklearn
 
 if __name__ == '__main__':
     # Get all comments from the /r/conservative
-    comment_ids = get_all_comments_from_subreddit("Conservative")
-    ids, texts, ys = get_texts_and_labels_for_sentences(comment_ids)
+    comment_ids = db.get_all_comments_from_subreddit("Conservative")
+    ids, texts, ys = db.get_texts_and_labels_for_sentences(comment_ids)
 
     # Extract features
     features = [ [len(text)] for text in texts ]
