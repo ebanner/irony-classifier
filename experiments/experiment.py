@@ -1,3 +1,6 @@
+import json
+import numpy as np
+
 import annotation_stats as db
 import sklearn
 
@@ -12,21 +15,19 @@ if __name__ == '__main__':
     sentiment_features = [ sentiment for sentiment in sentiments ]
     features = [ [sentiment_feature, length_feature] for length_feature, sentiment_feature in zip(length_features, sentiment_features)]
 
-    # Run it through a learning algorithm
-    clf = sklearn.linear_model.LogisticRegression()
-    clf.fit(features, ys)
+    # 5-fold test
+    kf = KFold(len(xs), n_folds=5, shuffle=True)
 
-    # Plot the data
-    training_examples = zip(features, ys)
-    plusses = [ (feature, label) for feature, label in training_examples if label == 1 ]
-    minuses = [ (feature, label) for feature, label in training_examples if label == -1 ]
-    print('plusses: {}'.format(plusses))
-    print('minuses: {}'.format(minuses))
+    recalls, precisions, f_measures = [], [], []
+    for train, test in kf:
+        # Get training and test data for this round
+        xs_train, xs_test = X[train], X[test]
+        ys_train, ys_test = ys[train], ys[test]
 
-    plus_features = [ feature[0] for feature, label in plusses ]
-    minus_features = [ feature[0] for feature, label in minuses ]
+        # Train svm
+        svm = SGDClassifier(loss="hinge", penalty="l2", class_weight="auto", alpha=.01)
+        parameters = { 'alpha': [.001, .01,  .1] }
+        clf = GridSearchCV(svm, parameters, scoring='f1')
+        clf.fit(xs_train, ys_train)
 
-    print('plusses = {}'.format(plus_features))
-    print('minues = {}'.format(minus_features))
-    
-    # 
+        predictions = clf.predict(xs_test)
