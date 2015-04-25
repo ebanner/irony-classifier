@@ -1,14 +1,16 @@
 import annotation_stats as db
-
 import sklearn
 
 if __name__ == '__main__':
     # Get all comments from the /r/conservative
     comment_ids = db.get_all_comments_from_subreddit("Conservative")
     ids, texts, ys = db.get_texts_and_labels_for_sentences(comment_ids)
+    sentiments = db.get_sentiments(comment_ids)    
 
     # Extract features
-    features = [ [len(text)] for text in texts ]
+    length_features = [ len(text) for text in texts ] 
+    sentiment_features = [ sentiment for sentiment in sentiments ]
+    features = [ [sentiment_feature, length_feature] for length_feature, sentiment_feature in zip(length_features, sentiment_features)]
 
     # Run it through a learning algorithm
     clf = sklearn.linear_model.LogisticRegression()
@@ -26,3 +28,5 @@ if __name__ == '__main__':
 
     print('plusses = {}'.format(plus_features))
     print('minues = {}'.format(minus_features))
+    
+    # 
