@@ -604,7 +604,7 @@ def get_user_ids(comment_ids):
     ids_str = _make_sql_list_str(comment_ids)
     #'''select redditor from irony_pastusercomment where id in %s;''' % 
     users = cursor.execute(
-            '''select redditor from irony_commentsegment where id in %s;''' %
+            '''select redditor from irony_pastusercomment where id in %s;''' %
                 ids_str).fetchall()
     return users
 
@@ -869,7 +869,7 @@ def get_entities_from_prev_comment(comment_id):
 
 def get_all_previous_subreddits_for_user(user_id):
     subreddits = cursor.execute(
-            '''select subreddit from irony_pastusercomment where redditor='%s';''' % user_id).fetchall()
+            '''select distinct subreddit from irony_pastusercomment where redditor='%s';''' % user_id).fetchall()
     return _grab_single_element(subreddits)
 
 
