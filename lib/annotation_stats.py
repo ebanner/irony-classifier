@@ -604,7 +604,7 @@ def get_user_ids(comment_ids):
     ids_str = _make_sql_list_str(comment_ids)
     #'''select redditor from irony_pastusercomment where id in %s;''' % 
     users = cursor.execute(
-            '''select redditor from irony_comment where id in %s;''' %
+            '''select redditor from irony_commentsegment where id in %s;''' %
                 ids_str).fetchall()
     return users
 
