@@ -175,7 +175,7 @@ p51
 g3
 I0
 sg4
-I1
+I-1
 ssVWe should lift the cap, at the very LEAST it should be set at what we pay politicians 174,000k. PUNCxUPPERCASE
 p53
 (dp54
@@ -196,7 +196,7 @@ p57
 g3
 I1
 sg4
-I1
+I-1
 ssVPeople believe in God because they've been trained to.
 p59
 (dp60
@@ -224,7 +224,7 @@ p65
 g3
 I0
 sg4
-I1
+I-1
 ssVNo, not even close.
 p67
 (dp68
@@ -280,7 +280,7 @@ p81
 g3
 I-1
 sg4
-I1
+I-1
 ssV He somehow forgets what a democracy means and wants everything his way.
 p83
 (dp84
@@ -455,7 +455,7 @@ p131
 g3
 I-1
 sg4
-I1
+I-1
 ssVI thought he had gone down to [37%] (http://www.
 p133
 (dp134
@@ -602,14 +602,14 @@ p173
 g3
 I0
 sg4
-I1
+I-1
 ssV It's anti-bureaucratic and simple and is a very effective anti-poverty measure\u000a\u000aSo is universal healthcare yet....
 p175
 (dp176
 g3
 I2
 sg4
-I1
+I-1
 ssV\u000a\u000aAnother couple hundred dollars.
 p177
 (dp178
@@ -665,7 +665,7 @@ p191
 g3
 I-1
 sg4
-I1
+I-1
 ssV  The key reason this is not true is because they are not building new construction properties.
 p193
 (dp194
@@ -714,7 +714,7 @@ p205
 g3
 I-1
 sg4
-I1
+I-1
 ssVThe video is a little sketchy at first in the way it refers to atheists but it goes on to clarify this point.
 p207
 (dp208
@@ -728,7 +728,7 @@ p209
 g3
 I-1
 sg4
-I1
+I-1
 ssVSo...
 p211
 (dp212
@@ -938,7 +938,7 @@ p269
 g3
 I0
 sg4
-I1
+I-1
 ssV He hates everyone.
 p271
 (dp272
@@ -959,7 +959,7 @@ p275
 g3
 I0
 sg4
-I1
+I-1
 ssV"  But, besides that, here is the unique person on Earth you are bonded to, and *they* are pushing this dogma on you.
 p277
 (dp278
@@ -1008,7 +1008,7 @@ p289
 g3
 I-1
 sg4
-I1
+I-1
 ssV If there is money to be made at every step of the way.
 p291
 (dp292
@@ -1071,7 +1071,7 @@ p307
 g3
 I0
 sg4
-I1
+I-1
 ssV But what about us readers who rely on SEVERAL sources to make our conclusion!? PUNCxEXCLAMATION_POINT PUNCxQUESTION_MARK PUNCxINTERROBANG PUNCxUPPERCASE
 p309
 (dp310
@@ -1127,7 +1127,7 @@ p323
 g3
 I-1
 sg4
-I1
+I-1
 ssV So long as inflation keeps occurring, the deficit is going to trend upwards.
 p325
 (dp326
@@ -1169,7 +1169,7 @@ p335
 g3
 I-1
 sg4
-I1
+I-1
 ssV  At the same time Cruz was filibustering, countless other Senators were meeting with lobbyists or at the bar getting sauced - Cruz certainly earned his salary more than they did.
 p337
 (dp338
@@ -1260,14 +1260,14 @@ p361
 g3
 I0
 sg4
-I1
+I-1
 ssV"\u000a\u000aMedia: The Tea Party functions solely around racist issues.
 p363
 (dp364
 g3
 I-1
 sg4
-I1
+I-1
 ssVI'm not calling him progressive until he at least openly discusses the Vatican's policy of covering up charges of child molestation.
 p365
 (dp366
@@ -1309,7 +1309,7 @@ p375
 g3
 I-1
 sg4
-I1
+I-1
 ssVbut even the cheapest plans offer preventative services for free.
 p377
 (dp378
@@ -1351,7 +1351,7 @@ p387
 g3
 I0
 sg4
-I1
+I-1
 ssV Privatizers are 'achievers' in the same way that vultures are 'hunters'.
 p389
 (dp390
@@ -1400,7 +1400,7 @@ p401
 g3
 I0
 sg4
-I1
+I-1
 ssVLet me bully a Park Ranger doing their job under difficult circumstances I helped bring on.
 p403
 (dp404
@@ -1505,7 +1505,7 @@ p431
 g3
 I0
 sg4
-I1
+I-1
 ssV They seriously couldn't do what they do without contributions from their users.
 p433
 (dp434
@@ -1589,7 +1589,7 @@ p455
 g3
 I1
 sg4
-I1
+I-1
 ssV Think what it could do in America if it weren't drowning in tax and regulatory over-kill.
 p457
 (dp458
@@ -1603,7 +1603,7 @@ p459
 g3
 I1
 sg4
-I1
+I-1
 ssV What the republicans have done and are continuing to do is not acceptable--it is extralegal, it is an attempt to game the system rather than to legislate.
 p461
 (dp462
@@ -1673,7 +1673,7 @@ p479
 g3
 I-1
 sg4
-I1
+I-1
 ssV Not knowing how your car works or how to fix it isn't closing huge amounts of doors to you or possibly limiting your career potential in many industries.
 p481
 (dp482
@@ -1708,7 +1708,7 @@ p489
 g3
 I-1
 sg4
-I1
+I-1
 ssV  And secondly, at one point, he even called Russell a "trivial" person.
 p491
 (dp492
@@ -1785,7 +1785,7 @@ p511
 g3
 I0
 sg4
-I1
+I-1
 ssVWhat in the howdy fuck is this.
 p513
 (dp514
@@ -1827,7 +1827,7 @@ p523
 g3
 I-1
 sg4
-I1
+I-1
 ssV It ain't"](http://www.
 p525
 (dp526
@@ -1890,7 +1890,7 @@ p541
 g3
 I-1
 sg4
-I1
+I-1
 ssVIf only we could elect a constitutional lawyer to our highest office, then we'd be set.
 p543
 (dp544
@@ -2457,7 +2457,7 @@ p703
 g3
 I-1
 sg4
-I1
+I-1
 ssVGreat article.
 p705
 (dp706
@@ -2660,7 +2660,7 @@ p761
 g3
 I0
 sg4
-I1
+I-1
 ssV Is there some online resource anyone could recommend? PUNCxQUESTION_MARK
 p763
 (dp764
@@ -2723,7 +2723,7 @@ p779
 g3
 I0
 sg4
-I1
+I-1
 ssV They tried to argue that "most likely guilty," did not imply guilty until proven innocent.
 p781
 (dp782
@@ -2772,7 +2772,7 @@ p793
 g3
 I0
 sg4
-I1
+I-1
 ssV  Notice that Muslims in developed countries don't do this kind of stuff with nearly as much frequency.
 p795
 (dp796
@@ -2814,7 +2814,7 @@ p805
 g3
 I0
 sg4
-I1
+I-1
 ssVYou realize his constituents are the entire state of Texas, right? PUNCxQUESTION_MARK
 p807
 (dp808
@@ -2961,7 +2961,7 @@ p847
 g3
 I0
 sg4
-I1
+I-1
 ssV 109, no.
 p849
 (dp850
@@ -3045,7 +3045,7 @@ p871
 g3
 I1
 sg4
-I1
+I-1
 ssV \u000a\u000aYou mean the republican party? PUNCxQUESTION_MARK
 p873
 (dp874
@@ -3311,7 +3311,7 @@ p947
 g3
 I0
 sg4
-I1
+I-1
 ssVAs a federal employee, I am sick of being treated as a bargaining chip by bickering politicians.
 p949
 (dp950
@@ -3339,7 +3339,7 @@ p955
 g3
 I1
 sg4
-I1
+I-1
 ssV Chesterton, and C.
 p957
 (dp958
@@ -3416,7 +3416,7 @@ p977
 g3
 I0
 sg4
-I1
+I-1
 ssVLet me get this straight.....
 p979
 (dp980
@@ -3472,7 +3472,7 @@ p993
 g3
 I-1
 sg4
-I1
+I-1
 ssV Write to your state government to build support for the idea.
 p995
 (dp996
@@ -3577,7 +3577,7 @@ p1023
 g3
 I0
 sg4
-I1
+I-1
 ssV I will not give  money to DNCC and the rest of the blanket orgs again. PUNCxUPPERCASE
 p1025
 (dp1026
@@ -3640,14 +3640,14 @@ p1041
 g3
 I-1
 sg4
-I1
+I-1
 ssV Does a Multi National Corporation with headquarters in Pakistan have the right to place their American employees under Sharia law? PUNCxQUESTION_MARK
 p1043
 (dp1044
 g3
 I-1
 sg4
-I1
+I-1
 ssV  Act like a dick on your commute? PUNCxQUESTION_MARK
 p1045
 (dp1046
@@ -3675,7 +3675,7 @@ p1051
 g3
 I0
 sg4
-I1
+I-1
 ssVWell in a way it's true...
 p1053
 (dp1054
@@ -3745,7 +3745,7 @@ p1071
 g3
 I1
 sg4
-I1
+I-1
 ssV So the fallout is on him on this one.
 p1073
 (dp1074
@@ -4018,7 +4018,7 @@ p1149
 g3
 I0
 sg4
-I1
+I-1
 ssV Jumping through all the regulatory hoops is killing me though.
 p1151
 (dp1152
@@ -4081,7 +4081,7 @@ p1167
 g3
 I-1
 sg4
-I1
+I-1
 ssV This needs to stop though.
 p1169
 (dp1170
@@ -4116,7 +4116,7 @@ p1177
 g3
 I0
 sg4
-I1
+I-1
 ssV  Just look at the other articles he's written, never citing anything, or providing proof, or even saying he spoke with his sources.
 p1179
 (dp1180
@@ -4179,7 +4179,7 @@ p1195
 g3
 I0
 sg4
-I1
+I-1
 ssVcom/watch? PUNCxQUESTION_MARK
 p1197
 (dp1198
@@ -4291,14 +4291,14 @@ p1227
 g3
 I-1
 sg4
-I1
+I-1
 ssV Fucking ignorant rednecks everywhere.
 p1229
 (dp1230
 g3
 I-1
 sg4
-I1
+I-1
 ssV  The problem is that this isn't how the government feels in the interest of national security.
 p1231
 (dp1232
@@ -4312,7 +4312,7 @@ p1233
 g3
 I-1
 sg4
-I1
+I-1
 ssVcom/59207751) about why they do what they do.
 p1235
 (dp1236
@@ -4340,7 +4340,7 @@ p1241
 g3
 I0
 sg4
-I1
+I-1
 ssV Hersh - what news source is your beacon of truth? PUNCxQUESTION_MARK
 p1243
 (dp1244
@@ -4354,7 +4354,7 @@ p1245
 g3
 I1
 sg4
-I1
+I-1
 ssV  Conservative fiscal ideas are what drove us over the edge.
 p1247
 (dp1248
@@ -4368,7 +4368,7 @@ p1249
 g3
 I1
 sg4
-I1
+I-1
 ssV \u000a\u000aIt'd be like calling a debate 'civil' if you were in a car with someone and they were speeding towards a cliff with the intent of going over the cliff if you didn't accept all of their demands and give up yours.
 p1251
 (dp1252
@@ -4424,7 +4424,7 @@ p1265
 g3
 I0
 sg4
-I1
+I-1
 ssVdon't hate the player, hate the game? PUNCxQUESTION_MARK
 p1267
 (dp1268
@@ -4529,7 +4529,7 @@ p1295
 g3
 I-2
 sg4
-I1
+I-1
 ssV&gt; Atheism/Theism had nothing to do with the attack.
 p1297
 (dp1298
@@ -4620,7 +4620,7 @@ p1321
 g3
 I-1
 sg4
-I1
+I-1
 ssVI wouldn't say it's terrorism, but it IS extortion.
 p1323
 (dp1324
@@ -4641,7 +4641,7 @@ p1327
 g3
 I-1
 sg4
-I1
+I-1
 ssVBecause the Reddit Liberal Brigade\u2122 would downvote it to oblivion within minutes? PUNCxQUESTION_MARK
 p1329
 (dp1330
@@ -4732,7 +4732,7 @@ p1353
 g3
 I0
 sg4
-I1
+I-1
 ssV /sarc
 p1355
 (dp1356
@@ -4774,14 +4774,14 @@ p1365
 g3
 I-1
 sg4
-I1
+I-1
 ssVHah...
 p1367
 (dp1368
 g3
 I0
 sg4
-I1
+I-1
 ssV In fact if anyone in this sub reddit surprised that these people we're *allowed* to come into the country and all on the taxpayers backs.
 p1369
 (dp1370
@@ -4844,7 +4844,7 @@ p1385
 g3
 I0
 sg4
-I1
+I-1
 ssVI really wish it were true, but I'm pretty skeptical.
 p1387
 (dp1388
@@ -5131,7 +5131,7 @@ p1467
 g3
 I1
 sg4
-I1
+I-1
 ssV It's like, if you're going to be all religiousy then at least FOLLOW YOUR OWN DAMN RELIGION. PUNCxUPPERCASE
 p1469
 (dp1470
@@ -5327,7 +5327,7 @@ p1523
 g3
 I-1
 sg4
-I1
+I-1
 ssVSo, will Republicans call for a boycott of Disney, or be satisfied to blame their high ticket prices on President Obama? PUNCxQUESTION_MARK
 p1525
 (dp1526
@@ -5411,7 +5411,7 @@ p1547
 g3
 I-1
 sg4
-I1
+I-1
 ssV I think there are plenty parts of the Bible that are construed as *arguments*.
 p1549
 (dp1550
@@ -5502,14 +5502,14 @@ p1573
 g3
 I-1
 sg4
-I1
+I-1
 ssV Give them a few decades, maybe they will come up for something good for climate change.
 p1575
 (dp1576
 g3
 I1
 sg4
-I1
+I-1
 ssV There isn't any way to make money in prison unless you work for them and when they feed you bullshit you have to be able to get money on your books to survive.
 p1577
 (dp1578
@@ -5621,7 +5621,7 @@ p1607
 g3
 I0
 sg4
-I1
+I-1
 ssV Lobsters and Doobies for all! PUNCxEXCLAMATION_POINT
 p1609
 (dp1610
@@ -5642,7 +5642,7 @@ p1613
 g3
 I-1
 sg4
-I1
+I-1
 ssV  Okay, this *is* getting scary.
 p1615
 (dp1616
@@ -5698,7 +5698,7 @@ p1629
 g3
 I0
 sg4
-I1
+I-1
 ssV6%.
 p1631
 (dp1632
@@ -5712,7 +5712,7 @@ p1633
 g3
 I-1
 sg4
-I1
+I-1
 ssV That's not a Christian quality.
 p1635
 (dp1636
@@ -5775,7 +5775,7 @@ p1651
 g3
 I-1
 sg4
-I1
+I-1
 ssV\u000a* Psalm 112:1 Praise ye the LORD. PUNCxUPPERCASE
 p1653
 (dp1654
@@ -5803,7 +5803,7 @@ p1659
 g3
 I0
 sg4
-I1
+I-1
 ssV In all the countries where fascism took over, it did so at a time of left-wing ascendancy.
 p1661
 (dp1662
@@ -5999,14 +5999,14 @@ p1715
 g3
 I-1
 sg4
-I1
+I-1
 ssV What I like is feeding his naked living body to pigs in Laos....
 p1717
 (dp1718
 g3
 I0
 sg4
-I1
+I-1
 ssV\u000a\u000a\u000aBecause evil always triumphs in the end.
 p1719
 (dp1720
@@ -6027,7 +6027,7 @@ p1723
 g3
 I0
 sg4
-I1
+I-1
 ssV  Better be every school in Texas.
 p1725
 (dp1726
@@ -6125,7 +6125,7 @@ p1751
 g3
 I0
 sg4
-I1
+I-1
 ssV \u000a\u000aEncouraging public schools to waste valuable education money on frivolous lawsuits strikes me as terribly irresponsible government.
 p1753
 (dp1754
@@ -6153,14 +6153,14 @@ p1759
 g3
 I0
 sg4
-I1
+I-1
 ssV\u000a\u000aAwesome, huh? PUNCxQUESTION_MARK
 p1761
 (dp1762
 g3
 I1
 sg4
-I1
+I-1
 ssV  Same old flawed foundations supporting poor arguments.
 p1763
 (dp1764
@@ -6174,7 +6174,7 @@ p1765
 g3
 I-1
 sg4
-I1
+I-1
 ssVBut...
 p1767
 (dp1768
@@ -6237,7 +6237,7 @@ p1783
 g3
 I-1
 sg4
-I1
+I-1
 ssV Make no mistake, there will be no progress (as the article hopes for) as long as the governor uses all the power he has to keep the people in a position to help confused and ignorant.
 p1785
 (dp1786
@@ -6321,7 +6321,7 @@ p1807
 g3
 I0
 sg4
-I1
+I-1
 ssVnbcnews.
 p1809
 (dp1810
@@ -6468,7 +6468,7 @@ p1849
 g3
 I-1
 sg4
-I1
+I-1
 ssVwhere in the article does it say he has a faith in god? PUNCxQUESTION_MARK
 p1851
 (dp1852
