@@ -73,7 +73,7 @@ I-1
 tp36
 a(V Does that sound about right?
 p37
-I1
+I-1
 tp38
 a(VIt's amazing how Democrats view money.
 p39
@@ -117,15 +117,15 @@ I-1
 tp58
 a(VThat, of course, is the Debt Star.
 p59
-I1
+I-1
 tp60
 a(VThe EPA is in fact non essential.
 p61
-I1
+I-1
 tp62
 a(VMust not be much going on for Congress this week.
 p63
-I1
+I-1
 tp64
 a(VI saw it best said in another cartoon "At no time was the Obama administration aware of what the Obama administration was doing.
 p65
@@ -185,7 +185,7 @@ I-1
 tp92
 a(VYet more proof that there is a god.
 p93
-I1
+I-1
 tp94
 a(VJokes on us..
 p95
@@ -209,11 +209,11 @@ I-1
 tp104
 a(Vno one is that stupid...
 p105
-I1
+I-1
 tp106
 a(Vright??
 p107
-I1
+I-1
 tp108
 a(VGod was decided decades ago as ambiguous as to not pertain to a specific religion, of course if it was In Jesus Christ we trust, then you'd have an argument.
 p109
@@ -237,7 +237,7 @@ I-1
 tp118
 a(V Lets use a half assed bastardized scientific process and not thoroughly test
 p119
-I1
+I-1
 tp120
 a(VWell would we expect anything different from this administration that has been leading us down the crapper.
 p121
@@ -285,7 +285,7 @@ I-1
 tp142
 a(VEvery time a liberal whines about their precious Obamacare, and angel gets its wings.
 p143
-I1
+I-1
 tp144
 a(VI highly doubt that speech will do him in if he runs.
 p145
@@ -381,11 +381,11 @@ I-1
 tp190
 a(VDid he cut a large circular mouth hole?
 p191
-I1
+I-1
 tp192
 a(VUm, not exactly
 p193
-I1
+I-1
 tp194
 a(V&gt; But the guts of your question \u2013 even without all the name-calling and acrimony \u2013 reveal the essence of what's broken in our country.
 p195
@@ -413,7 +413,7 @@ I-1
 tp206
 a(V\u000a\u000aCan our society, so focused on equality, be headed for a time that we shun people for having different ideas than us?
 p207
-I1
+I-1
 tp208
 a(VGreat idea on the talkathon Cruz.
 p209
@@ -429,11 +429,11 @@ I1
 tp214
 a(VWork, ain't nobody got time for dat!
 p215
-I1
+I-1
 tp216
 a(VAmazing how they made sure all this would go in effect right *after* the election
 p217
-I1
+I-1
 tp218
 a(V[New Definitions](http://i.
 p219
@@ -609,7 +609,7 @@ I-1
 tp304
 a(Vwhen a white person says something conservative or profound it's tossed to the side and called racist, but if you put a black person's picture above it, or say Morgan Freeman said it or whatever, it blows up my news feed as the greatest thing ever said.
 p305
-I1
+I-1
 tp306
 a(VMatthews must mistakenly think that if O'Reilly died he would get a share of the viewership.
 p307
@@ -617,7 +617,7 @@ I-1
 tp308
 a(VPolitics: the dirtiest job of them all!
 p309
-I1
+I-1
 tp310
 a(VI wonder if Obamacare covers whatever it is that Carney's smoking?
 p311
@@ -681,7 +681,7 @@ I-1
 tp340
 a(V\u000a\u000aI miss None.
 p341
-I1
+I-1
 tp342
 a(VYou want to know why Obama couldn't give this speech?
 p343
@@ -701,15 +701,15 @@ I-1
 tp350
 a(Vso 93 million lose coverage so that the 45million who dont have coverage...
 p351
-I1
+I-1
 tp352
 a(Vcan maybe get it 
 p353
-I1
+I-1
 tp354
 a(VThis is not a checklist.
 p355
-I1
+I-1
 tp356
 a(Vomg anne rand is so dumb i was really into her when i was 13 then i grew up /s
 p357
@@ -717,7 +717,7 @@ I1
 tp358
 a(VHow is it possible that this cocksucker isn't in prison yet?
 p359
-I1
+I-1
 tp360
 a(VAll I can say is "ha ha" they should have read it first.
 p361
@@ -809,7 +809,7 @@ I-1
 tp404
 a(V \u000a\u000aThey are called tortas in Mexico genius.
 p405
-I1
+I-1
 tp406
 a(V&gt;Interestingly, while voters are more critical of the Tea Party, they continue to identify with the movement\u2019s smaller government/lower taxes message.
 p407
@@ -1001,7 +1001,7 @@ I-1
 tp500
 a(VIt's funny that you discount this guy's opinion because of his bias but fully accept the completely biased IPCC report.
 p501
-I1
+I-1
 tp502
 a(Vyou got it the wrong way around.
 p503
@@ -1017,7 +1017,7 @@ I-1
 tp508
 a(VA chuckle-worthy irony.
 p509
-I1
+I-1
 tp510
 a(VBoth sides only posted a partial deal.
 p511
@@ -1117,7 +1117,7 @@ I-1
 tp558
 a(VImagine if it was a man his age going after 17 year old girls with substance abuse problems.
 p559
-I1
+I-1
 tp560
 a(VI really don't think this qualifies as being dicks.
 p561
@@ -1193,7 +1193,7 @@ I1
 tp596
 a(VIt's mind-boggling that it's that high.
 p597
-I1
+I-1
 tp598
 a(VI'm sorry, but does anyone actually believe that the Slate article is meant to be taken seriously?
 p599
@@ -1301,11 +1301,11 @@ I1
 tp650
 a(V \u000a\u000aIf it was a Republican it'd be the top story on CNN and MSNBC right now.
 p651
-I1
+I-1
 tp652
 a(VIn other news, Democrats want *everybody* to be owned by the State.
 p653
-I1
+I-1
 tp654
 a(VSo when they went to private ownership, they just magically developed over night a deep knowledge of crops, animals, environment, and farming techniques?
 p655
@@ -1477,7 +1477,7 @@ I-1
 tp738
 a(VI think you mean people that they will be hiring in a few years.
 p739
-I1
+I-1
 tp740
 a(VI'm not sure what's worse, the policies that have kept the economy stifled for so long, or the unwavering support of those policies by those who are being hurt the most by them.
 p741
@@ -1493,11 +1493,11 @@ I-1
 tp746
 a(V\u000a\u000aBwaaaaaah ha ha haaaaah ha ha hee ho ho ooooh.
 p747
-I1
+I-1
 tp748
 a(V Whew.
 p749
-I1
+I-1
 tp750
 a(V Good one.
 p751
@@ -1505,7 +1505,7 @@ I1
 tp752
 a(VWhat I want to know, what has he down that 37% of people approve of?
 p753
-I1
+I-1
 tp754
 a(VI posted about this too.
 p755
@@ -1565,7 +1565,7 @@ I-1
 tp782
 a(V \u000a\u000aThis is a great week!
 p783
-I1
+I-1
 tp784
 a(VIm pretty sure that no one takes that guy seriously 
 p785
@@ -1673,7 +1673,7 @@ I-1
 tp836
 a(VThe health deductible tripled due to ability of health insurers to now charge 3x more for skin bronzers -- ziiiiinggggg, see what I did there
 p837
-I1
+I-1
 tp838
 a(VA press release right before a long holiday.
 p839
@@ -1705,11 +1705,11 @@ I-1
 tp852
 a(V$780 in food stamps (plus WIC)!
 p853
-I1
+I-1
 tp854
 a(V  That's some lavish dining!
 p855
-I1
+I-1
 tp856
 a(VNow who is going to have the balls to ask the WH about it??
 p857
@@ -1721,7 +1721,7 @@ I-1
 tp860
 a(V\u000aSO LET'S STIR UP SHIT!
 p861
-I1
+I-1
 tp862
 a(V"the environment" ...
 p863
@@ -1841,7 +1841,7 @@ I1
 tp920
 a(VI mean if Obama can win one...
 p921
-I1
+I-1
 tp922
 a(VAt first I thought you meant the shape of the highlights.
 p923
@@ -1857,7 +1857,7 @@ I-1
 tp928
 a(V\u000a\u000aEnough said.
 p929
-I1
+I-1
 tp930
 a(V[deleted]
 p931
@@ -1977,7 +1977,7 @@ I-1
 tp988
 a(V  Even if the website was working properly, people would still be getting their hours cut at work and kicked off their existing plans.
 p989
-I1
+I-1
 tp990
 a(V\u000a\u000aThis is only the beginning of the shit show.
 p991
@@ -2009,7 +2009,7 @@ I1
 tp1004
 a(V" -Liberal
 p1005
-I1
+I-1
 tp1006
 a(VCan't dispute any of it.
 p1007
@@ -2065,11 +2065,11 @@ I1
 tp1032
 a(VLets start with mandatory drug testing.
 p1033
-I1
+I-1
 tp1034
 a(V  That will inspire some people like this gal to get a job so they can buy drugs with no penalty.
 p1035
-I1
+I-1
 tp1036
 a(VThis is pretty much exactly how a lot of liberals feel, and you won't find very many conservatives in America who agree with your viewpoint.
 p1037
@@ -2305,23 +2305,23 @@ I1
 tp1152
 a(VI like this video but not as much as the one where he promises to end wire tapping.
 p1153
-I1
+I-1
 tp1154
 a(V Although the one about closing gitmo asap was good too.
 p1155
-I1
+I-1
 tp1156
 a(V It ties for my other favorite which is where he claimed Libya was caused by a video.
 p1157
-I1
+I-1
 tp1158
 a(V But you cant forget about his bailouts those videos are always worth a watch after all he kept Detroit running.
 p1159
-I1
+I-1
 tp1160
 a(V You can not mention favorite videos tho without talking about his absolute disgust of raising the debt limit while a part time congress person.
 p1161
-I1
+I-1
 tp1162
 a(VIt does nothing to assist the political discourse of this nation to characterize democrats as the "enemy.
 p1163
@@ -2417,7 +2417,7 @@ I1
 tp1208
 a(VWelcome to /r/libertarian, Glenn Beck.
 p1209
-I1
+I-1
 tp1210
 a(VHonestly, having people like Warren and Sanders in the US Senate makes me wonder what the hell we fought the Cold War for.
 p1211
@@ -2441,7 +2441,7 @@ I-1
 tp1220
 a(VLiberals truly believe the ends justify the means.
 p1221
-I1
+I-1
 tp1222
 a(V&gt;They could pass one this very minute if Mr.
 p1223
@@ -2453,11 +2453,11 @@ I-1
 tp1226
 a(V\u000a\u000aIf Boehner brought a clean CR today, a large percentage of republicans would vote for it, he can't bring it right now.
 p1227
-I1
+I-1
 tp1228
 a(VYou don't expect him to remember what he dictates from the Teleprompter feed, do you?
 p1229
-I1
+I-1
 tp1230
 a(VThe perimeters around this relaunching were kept incredibly vague so the administration would be able to call any outcome a success.
 p1231
@@ -2493,11 +2493,11 @@ I-1
 tp1246
 a(V"President's words ~~have lost all~~ *never* had any meaning.
 p1247
-I1
+I-1
 tp1248
 a(V" FTFY 
 p1249
-I1
+I-1
 tp1250
 a(VMainstream America wants Ed Schultz to have a heat attack on camera.
 p1251
@@ -2505,31 +2505,31 @@ I1
 tp1252
 a(Vit's a college bake sale, let's be fair now.
 p1253
-I1
+I-1
 tp1254
 a(V asians would pay 2.
 p1255
-I1
+I-1
 tp1256
 a(V50
 p1257
-I1
+I-1
 tp1258
 a(VLiberals: "We ran a black guy so we can't be racist!
 p1259
-I1
+I-1
 tp1260
 a(V"\u000a\u000aTea Party: "We ran a guy with a 9-9-9 tax plan that will help the economy!
 p1261
-I1
+I-1
 tp1262
 a(V He also has great business experience!
 p1263
-I1
+I-1
 tp1264
 a(V"\u000a\u000aMedia: The Tea Party functions solely around racist issues.
 p1265
-I1
+I-1
 tp1266
 a(VWhy the hell are you being downvoted?
 p1267
@@ -2769,7 +2769,7 @@ I-1
 tp1384
 a(VNow if only he'd address his personal issues of pederasty.
 p1385
-I1
+I-1
 tp1386
 a(VI have a cousin working in Japan and she recently explained what she went through to register in their single-payer system.
 p1387
@@ -2817,15 +2817,15 @@ I-1
 tp1408
 a(V  Not that vets day shouldn't be a school holiday, but at going after MLK day.
 p1409
-I1
+I-1
 tp1410
 a(V  Really?
 p1411
-I1
+I-1
 tp1412
 a(V  How petty is that?
 p1413
-I1
+I-1
 tp1414
 a(V\u000a\u000aI do draw the line at Memorial Day though.
 p1415
@@ -2937,15 +2937,15 @@ I-1
 tp1468
 a(VYeah because Obama is not at all a communist.
 p1469
-I1
+I-1
 tp1470
 a(V  He also hasn't focused his entire life, including jobs, friends, mentors, "religion" and education exclusively around it.
 p1471
-I1
+I-1
 tp1472
 a(V  He is a just a regular, good old capitalism loving, American patriot.
 p1473
-I1
+I-1
 tp1474
 a(VI'm actually confused by the statement that this article makes saying that the "stand-your-ground law" had nothing to do with Trayvon Martin's trial.
 p1475
@@ -3009,7 +3009,7 @@ I-1
 tp1504
 a(VPlease give him something to keep him in the US, we dont need him back in the UK.
 p1505
-I1
+I-1
 tp1506
 a(VIf she has aides that update it for her, they could be on furlough.
 p1507
@@ -3025,11 +3025,11 @@ I-1
 tp1512
 a(VIf you are under 100% of the federal poverty level you do not qualify for a subsidy.
 p1513
-I1
+I-1
 tp1514
 a(V If your state did not expand medicaid you do not qualify for that.
 p1515
-I1
+I-1
 tp1516
 a(V You are SOL.
 p1517
@@ -3077,7 +3077,7 @@ I-1
 tp1538
 a(V  Agree with him here 100%.
 p1539
-I1
+I-1
 tp1540
 a(V \u000a\u000aI'm guessing one of the aides had to pull him aside after this.
 p1541
@@ -3141,7 +3141,7 @@ I-1
 tp1570
 a(VDon't they need it the MOST?
 p1571
-I1
+I-1
 tp1572
 a(VI'll speak as the Devil's advocate here.
 p1573
@@ -3249,7 +3249,7 @@ I1
 tp1624
 a(VSo it's the same policy toward illegal aliens.
 p1625
-I1
+I-1
 tp1626
 a(VWe've always been a target, and with 2014 around the corner, this sub will be a destination for all of reddit's troglodytic progressive asshats.
 p1627
@@ -3269,7 +3269,7 @@ I-1
 tp1634
 a(VI think we are just going to see more republicans in general, Spanish, black, white, Asian, they all know that Obama is a fuck up.
 p1635
-I1
+I-1
 tp1636
 a(VI now tell people that they're making "the wealthy" pay for this.
 p1637
@@ -3277,11 +3277,11 @@ I-1
 tp1638
 a(V When they realize they're footing the bill, I turn and say "Congratulations!
 p1639
-I1
+I-1
 tp1640
 a(V You're wealthy!!!
 p1641
-I1
+I-1
 tp1642
 a(V"
 p1643
@@ -3289,23 +3289,23 @@ I-1
 tp1644
 a(VWashington, D.
 p1645
-I1
+I-1
 tp1646
 a(VC.
 p1647
-I1
+I-1
 tp1648
 a(V Surpasses New York, L.
 p1649
-I1
+I-1
 tp1650
 a(VA.
 p1651
-I1
+I-1
 tp1652
 a(V as Fastest Growing Region of Wealth\u000ahttp://www.
 p1653
-I1
+I-1
 tp1654
 a(Vweeklystandard.
 p1655
@@ -3373,7 +3373,7 @@ I-1
 tp1686
 a(V But then they spend hours on the floor complaining about him negotiating with foreign leaders instead of acting as a liaison between Democrats and Republicans in Congress.
 p1687
-I1
+I-1
 tp1688
 a(V\u000a\u000aI just wish Republicans would pick one or the other and run with it.
 p1689
@@ -3593,11 +3593,11 @@ I-1
 tp1796
 a(V\u000a\u000aSorry for starting a war on Christ 
 p1797
-I1
+I-1
 tp1798
 a(VI believe nothing the Obama regime tells me, I believe a lot of what the Iranian one does.
 p1799
-I1
+I-1
 tp1800
 a(V\u000a\u000a[**Iran threatens widespread retaliation against US and allies**](http://dailycaller.
 p1801
@@ -3637,7 +3637,7 @@ I-1
 tp1818
 a(Voh my sides!
 p1819
-I1
+I-1
 tp1820
 a(V, it feels so good to give them a big "I told you so dumbass", then again this is now the law and I am frightened.
 p1821
@@ -3653,7 +3653,7 @@ I-1
 tp1826
 a(Vyea, and some survived it.
 p1827
-I1
+I-1
 tp1828
 a(VTook me awhile, but I see what you did there.
 p1829
@@ -3701,7 +3701,7 @@ I-1
 tp1850
 a(Vcom\u000a\u000astereotype much?
 p1851
-I1
+I-1
 tp1852
 a(VObama was supporting known terrorist organizations and spent two weeks lying about the nature of a terrorist attack.
 p1853
@@ -3749,7 +3749,7 @@ I-1
 tp1874
 a(VCan't argue with that logic
 p1875
-I1
+I-1
 tp1876
 a(VMy mother-in-law watches way to much cable TV, and loves MSNBC and any documentary that talks about how we are raping the plant, bombing brown people, etc.
 p1877
@@ -3825,7 +3825,7 @@ I-1
 tp1912
 a(VTHE EMPEROR HAS NO CLOTHES!
 p1913
-I1
+I-1
 tp1914
 a(VRemember when the same people who are now banning WE THE PEOPLE from public property and land were telling us the 'occupiers' had every right to be there ?
 p1915
@@ -3869,11 +3869,11 @@ I-1
 tp1934
 a(V \u000a\u000aToo much bipartisan cock sucking and smearing from both sides.
 p1935
-I1
+I-1
 tp1936
 a(VWell one can ensure that you and your family are protected while the other is just a silly healthcare law :P
 p1937
-I1
+I-1
 tp1938
 a(VStraightforward!
 p1939
@@ -3977,7 +3977,7 @@ I-1
 tp1988
 a(VGo back to the leftist threads, your kind is not welcome here.
 p1989
-I1
+I-1
 tp1990
 a(VWhat she said is that he held meetings in his whitehouse with individuals who wanted borders set a specific way in Israel so that the borders complied with the bible's requirements for the apocalypse.
 p1991
@@ -3989,7 +3989,7 @@ I-1
 tp1994
 a(VKeep attacking the one world leader who stands up to fags, guys.
 p1995
-I1
+I-1
 tp1996
 a(V Whoever said conservatives are their own worst enemies?
 p1997
@@ -4201,7 +4201,7 @@ I-1
 tp2100
 a(V\u000a\u000aIf you aren't in favor of stand your ground, you're either ignorant or you've got a gun control agenda.
 p2101
-I1
+I-1
 tp2102
 a(VAnd right after this [someone in the audience fainted](http://www.
 p2103
@@ -4225,7 +4225,7 @@ I-1
 tp2112
 a(V \u000a\u000aHow could anyone not love such a compassionate and caring leader?
 p2113
-I1
+I-1
 tp2114
 a(VHeheheheheheheh
 p2115
@@ -4269,7 +4269,7 @@ I-1
 tp2134
 a(VNow if only this could show the millions of people who will stay wallowed in poverty because the train can't go faster.
 p2135
-I1
+I-1
 tp2136
 a(VWelcome to the new congress, same as the old congress....
 p2137
@@ -4329,7 +4329,7 @@ I-1
 tp2164
 a(V  If you actually thought he was celebrating suicides of Veterans, you are probably mentally challenged.
 p2165
-I1
+I-1
 tp2166
 a(VAt least the New York Post is telling the truth.
 p2167
@@ -4393,7 +4393,7 @@ I-1
 tp2196
 a(V\u000a\u000a\u000aSo when CEO's do it, it's wrong and evil, but when the fed does it to keep Obama and the democrats from looking bad spending all this money it's swept under the bus lol\u000a
 p2197
-I1
+I-1
 tp2198
 a(VThis only applies to executive appointments and non-supreme court nominees, not legislation or nominees to the SCOTUS.
 p2199
@@ -4581,7 +4581,7 @@ I-1
 tp2290
 a(VCan we put the political ideology aside and all agree that Rand's prose reads like a refrigerator manual?
 p2291
-I1
+I-1
 tp2292
 a(VWhile I agree that we need rules for certain aspects of our society (in this case business), I really don't like the regulatory process.
 p2293
@@ -4621,7 +4621,7 @@ I-1
 tp2310
 a(VSo its "Affordable" if you lie.
 p2311
-I1
+I-1
 tp2312
 a(V Shouldnt be too hard to do the president likes to lead by example.
 p2313
@@ -4657,7 +4657,7 @@ I-1
 tp2328
 a(V  I guess the Daily Show never covered this subject.
 p2329
-I1
+I-1
 tp2330
 a(VThere seems to be a common trend on the news and im currently watching it on jon stewart which is, that the republicans think everyone is stupid because they want to meet now and the democrats wont and are playing the victim, even though the democrats wanted to meet (something like 2 years ago) to meet originally and they wouldn't.
 p2331
@@ -4677,7 +4677,7 @@ I-1
 tp2338
 a(VStay classy Ted Cruz.
 p2339
-I1
+I-1
 tp2340
 a(V Also, it's not true.
 p2341
@@ -4769,7 +4769,7 @@ I-1
 tp2384
 a(VThe best part was when asked about the president's involvement, she replied "Whatever.
 p2385
-I1
+I-1
 tp2386
 a(V"
 p2387
@@ -4781,15 +4781,15 @@ I-1
 tp2390
 a(V\u000a\u000aSo what are they waiting for ?
 p2391
-I1
+I-1
 tp2392
 a(VIt doesn't matter nothing sticks to this administration anyways.
 p2393
-I1
+I-1
 tp2394
 a(V  They are the proverbial rubber, and the republicans are glue.
 p2395
-I1
+I-1
 tp2396
 a(VI feel bad for this guy, but he probably shouldn't have tried to set up home churches in an Islamic theocracy.
 p2397
@@ -4833,11 +4833,11 @@ I-1
 tp2416
 a(V We need to immediately stop the obscene amount of aid (both military and economic) we give to them each year, stop fighting all their skirmishes and wars for them, and most of all, stop asking "How high?
 p2417
-I1
+I-1
 tp2418
 a(V" whenever they say jump (and expecting everyone else to follow suit).
 p2419
-I1
+I-1
 tp2420
 a(V In fact, it would be best to cut ties altogether.
 p2421
@@ -4877,7 +4877,7 @@ I-1
 tp2438
 a(Vliterally bizarroworld.
 p2439
-I1
+I-1
 tp2440
 a(V what in the holy thor was he thinking
 p2441
@@ -5101,11 +5101,11 @@ I-1
 tp2550
 a(VHe didn't know what he was supposed to be doing at the time where he wasn't quite sure what was going on...
 p2551
-I1
+I-1
 tp2552
 a(Vand also did not know what happened
 p2553
-I1
+I-1
 tp2554
 a(VDetails schmetails....
 p2555
@@ -5281,7 +5281,7 @@ I-1
 tp2640
 a(VWe don't believe in handouts and free rides...
 p2641
-I1
+I-1
 tp2642
 a(V (wink wink)
 p2643
@@ -5329,7 +5329,7 @@ I-1
 tp2664
 a(VPoor Obama must have a very short-term memory because he swore he never said this even though it was recorded for the whole world to see...
 p2665
-I1
+I-1
 tp2666
 a(Vsorry Bammy, the proof is in the lies coming out of your mouth.
 p2667
@@ -5369,7 +5369,7 @@ I-1
 tp2684
 a(VSebelius could really use a sandwich.
 p2685
-I1
+I-1
 tp2686
 a(VTeenagers who think they understand politics...
 p2687
@@ -5437,7 +5437,7 @@ I-1
 tp2718
 a(V\u000a\u000aA primary conservative principle, federalism, is a mere roadbump to activist liberal judges.
 p2719
-I1
+I-1
 tp2720
 a(VThen why did Hitler put all the socialists and unionists into concentration camps?
 p2721
@@ -5585,7 +5585,7 @@ I-1
 tp2792
 a(V That's like equating the Pacific Ocean to a backyard swimming pool.
 p2793
-I1
+I-1
 tp2794
 a(VObamacare "issue" doesn't give it justice...
 p2795
@@ -5601,11 +5601,11 @@ I-1
 tp2800
 a(V \u000a\u000aElect me.
 p2801
-I1
+I-1
 tp2802
 a(V My first order of business will be to give every UN diplomat in our country 48 hours to get out, and then turn valuable Manhattan real estate into profits.
 p2803
-I1
+I-1
 tp2804
 a(VWhile I can appreciate learning from the mistakes of Benghazi, what threats were made against the Vatican?
 p2805
@@ -5633,7 +5633,7 @@ I-1
 tp2816
 a(Vpride don't pay my obamacare premiums!
 p2817
-I1
+I-1
 tp2818
 a(VAre you an atheist?
 p2819
@@ -5921,11 +5921,11 @@ I-1
 tp2960
 a(VAnd all of a sudden NBC is throwing a 404 error.
 p2961
-I1
+I-1
 tp2962
 a(V I assume because it was the headline on Drudge and the liberal powers at be won't have any of this real journalism.
 p2963
-I1
+I-1
 tp2964
 a(VI highly doubt the democrat party will repeal Obamacare, but if they do, you can bet your last dollar that Republicans and the Tea Party will be blamed for "stealing healthcare from the poor and middle class to pay for more tax cuts for the rich.
 p2965
@@ -5933,7 +5933,7 @@ I-1
 tp2966
 a(V"  And the low information sheep will sadly believe every bit of it.
 p2967
-I1
+I-1
 tp2968
 a(VAnyone have a link to the data used in the report?
 p2969
@@ -5953,11 +5953,11 @@ I-1
 tp2976
 a(V Keep diggin, Watson.
 p2977
-I1
+I-1
 tp2978
 a(V /yawn\u000a\u000aDean is another matter.
 p2979
-I1
+I-1
 tp2980
 a(V  It's beyond my knowledge.
 p2981
@@ -5997,11 +5997,11 @@ I-1
 tp2998
 a(VIf I had to choose between the Death Star and ObamaCare, Alderaan wouldn't exist anymore.
 p2999
-I1
+I-1
 tp3000
 a(VIf only more people could be as sensible as Mike Rowe.
 p3001
-I1
+I-1
 tp3002
 a(V Oh the horror of compromise and understanding of differing opinions!
 p3003
@@ -6113,7 +6113,7 @@ I-1
 tp3056
 a(V What's a guy to do?
 p3057
-I1
+I-1
 tp3058
 a(VExplaining, of course, the declining society we are building.
 p3059
@@ -6165,11 +6165,11 @@ I-1
 tp3082
 a(VIt'll be a privileged lunch for me today mmmm...
 p3083
-I1
+I-1
 tp3084
 a(VSomething makes me think they will still be able to ooze out the same amount of liberal slime in a shutdown.
 p3085
-I1
+I-1
 tp3086
 a(VObama please shut down the interwebs next.
 p3087
@@ -6177,7 +6177,7 @@ I1
 tp3088
 a(V So people will storm DC and demand impeachment.
 p3089
-I1
+I-1
 tp3090
 a(VIt was comedy gold until we go to Michelle Antoinette Obama's Twitter account - after that it gets beyond parody.
 p3091
@@ -6249,7 +6249,7 @@ I-1
 tp3124
 a(V It is all gumdrops and candy canes until the hammer and sickle finally come down on a future generation conditioned to never see it coming.
 p3125
-I1
+I-1
 tp3126
 a(V It will be framed very reasonably, most will by in to the notion that the crises is necessary and there simply wasn't anything that could be done to avoid it.
 p3127
@@ -6569,7 +6569,7 @@ I-1
 tp3284
 a(VMaybe being that close to Pope Francis makes them feel too guilty or something.
 p3285
-I1
+I-1
 tp3286
 a(VI don't think that or the Rev Wright bit should be in there.
 p3287
@@ -6593,11 +6593,11 @@ I-1
 tp3296
 a(VNo, not *all* guns.
 p3297
-I1
+I-1
 tp3298
 a(V I'm sure he would be ok with his private bodyguards having access to guns.
 p3299
-I1
+I-1
 tp3300
 a(VPrelude to Hillary 2016?
 p3301
@@ -6681,15 +6681,15 @@ I-1
 tp3340
 a(VIt's not racist if white people are the objects.
 p3341
-I1
+I-1
 tp3342
 a(V\u000a\u000aThe uber-liberal Hampshire College administration probably wouldn't recognize a black guy if they saw one.
 p3343
-I1
+I-1
 tp3344
 a(V  Those New England colleges are so white and so liberal, that they urinate nothing but guilt.
 p3345
-I1
+I-1
 tp3346
 a(VYes, very satisfying.
 p3347
@@ -6701,7 +6701,7 @@ I-1
 tp3350
 a(VThat's a huge part of the thinking of the liberal elite; they truly know what is "best" for us, and if we, in our ignorance, cannot understand what wonders they bestow upon us, then it is okay to manipulate or coerce us into submission.
 p3351
-I1
+I-1
 tp3352
 a(V  After all, once we figure out how amazing it is, we will all rise up and thank our benevolent betters for showing us the way in spite of our darkened minds.
 p3353
@@ -6761,7 +6761,7 @@ I-1
 tp3380
 a(V  If it does they have to cover dead people.
 p3381
-I1
+I-1
 tp3382
 a(VIn Tennessee we had a program for years called TennCare, which was a statewide program for people to be able to purchase affordable insurance.
 p3383
@@ -6825,11 +6825,11 @@ I-1
 tp3412
 a(V "Please come to our Olympics I promise not to enforce the anti-gay law while you stay.
 p3413
-I1
+I-1
 tp3414
 a(V" We need the money to get out of our 2 generation long economic depression.
 p3415
-I1
+I-1
 tp3416
 a(VI don't approve of the language in the last panel, but otherwise man that's dead on for the absurdity of what's believed on the whole thing.
 p3417
@@ -6837,11 +6837,11 @@ I-1
 tp3418
 a(Vand in comes the "let's see you live off of $1200 a month!
 p3419
-I1
+I-1
 tp3420
 a(V" posters................
 p3421
-I1
+I-1
 tp3422
 a(V\u000a\u000aHint: **THAT'S NOT THE POINT**
 p3423
@@ -7021,7 +7021,7 @@ I-1
 tp3510
 a(VHe's not clueless, he's just a pathological liar.
 p3511
-I1
+I-1
 tp3512
 a(VFrom the article: *"I think, for a large part of the population, rates are going to go up anyway under the Affordable Care Act.
 p3513
@@ -7117,7 +7117,7 @@ I-1
 tp3558
 a(V Way to stick to the narrative guys, even when it contradicts that "artificial construct" we sane people  refer to as \u201creality.
 p3559
-I1
+I-1
 tp3560
 a(V" Fucking hacks.......
 p3561
@@ -7169,15 +7169,15 @@ I-1
 tp3584
 a(V \u000a\u000aIf people hate a liberal president, they must have other reasons.
 p3585
-I1
+I-1
 tp3586
 a(V They must either be racist, ignorant, greedy, paid off by the Koch brothers, etc.
 p3587
-I1
+I-1
 tp3588
 a(V \u000a\u000aBecause reality really does have a liberal bias.
 p3589
-I1
+I-1
 tp3590
 a(V Seriously, ask a liberal, they'll tell you.
 p3591
@@ -7193,7 +7193,7 @@ I-1
 tp3596
 a(VDoesn't she have better things to do?
 p3597
-I1
+I-1
 tp3598
 a(V Like make up pretend stories about how people in some expensive, exclusive store were racist?
 p3599
@@ -7417,7 +7417,7 @@ I-1
 tp3708
 a(V \u000a\u000aPeople were too busy shoveling free healthcare into everyone's butts, they were distracted in Obama-land and thought Obama could do no wrong.
 p3709
-I1
+I-1
 tp3710
 a(V This is what happens when you blindly follow leaders no matter what.
 p3711
@@ -7765,19 +7765,19 @@ I-1
 tp3882
 a(VWhat's 100% - 53%?
 p3883
-I1
+I-1
 tp3884
 a(VIf bending over backwards means not negotiating then heck anyone can do this job.
 p3885
-I1
+I-1
 tp3886
 a(V \u000a\u000anealski77 for President!...
 p3887
-I1
+I-1
 tp3888
 a(V when I'm old enough to run...
 p3889
-I1
+I-1
 tp3890
 a(V&gt;\u201cIf it was on the floor, they would do it,\u201d he says.
 p3891
@@ -7809,7 +7809,7 @@ I-1
 tp3904
 a(VAnd it's still a more efficient idea than Obama's unaffordable health care.
 p3905
-I1
+I-1
 tp3906
 a(VDemocrats know that if they back down now they will lose the presidency in 2016 and congress for the foreseeable future.
 p3907
@@ -7825,7 +7825,7 @@ I-1
 tp3912
 a(V It will ultimately be blamed on Republicans, because it was obviously a "Republican idea".
 p3913
-I1
+I-1
 tp3914
 a(VIt's funny because everyone on Reddit said "deal with it" when he got a second term, and I will feel no pity for them when they go broke because of this stupid bill.
 p3915
@@ -7841,11 +7841,11 @@ I-1
 tp3920
 a(Vlol is this real life?
 p3921
-I1
+I-1
 tp3922
 a(VI'm sure he checked their ID to make sure they were old enough to pass muster.
 p3923
-I1
+I-1
 tp3924
 a(VI think you nailed it.
 p3925
@@ -7897,7 +7897,7 @@ I-1
 tp3948
 a(VHaven't we suffered enough?
 p3949
-I1
+I-1
 tp3950
 a(V&gt; In Nashville, a 25-year old making $25,500 will not qualify for a subsidy\u000a\u000aI lived in Nashville when I was 25, making a similar amount.
 p3951
@@ -7961,7 +7961,7 @@ I-1
 tp3980
 a(VEven his punctuation are lies.
 p3981
-I1
+I-1
 tp3982
 a(VIt says much when I am more likely to believe liars in Iran over the liars in the White House.
 p3983
@@ -8061,11 +8061,11 @@ I-1
 tp4030
 a(V Don't worry!
 p4031
-I1
+I-1
 tp4032
 a(V If not, I am sure the FBI will take a peek.
 p4033
-I1
+I-1
 tp4034
 a(VThis morning, as I was in that stage of waking that is in between sleep and wakefulness, I wondered if he would declare a national emergency and exercise his authority to shut down the Internet.
 p4035
@@ -8189,7 +8189,7 @@ I-1
 tp4094
 a(V\u000a\u000a\u000aoh sorry, he wouldn't so obviously that fuckhead in the crackhouse won't care.
 p4095
-I1
+I-1
 tp4096
 a(VBUUUUULLLLLLSHIIIIIIIIIIT
 p4097
@@ -8205,7 +8205,7 @@ I-1
 tp4102
 a(VThe captain went down with the ship, Obama throws people under the bus
 p4103
-I1
+I-1
 tp4104
 a(VLink to the supposed video?
 p4105
@@ -8365,7 +8365,7 @@ I-1
 tp4182
 a(VFor some reason, one that I can't think of, this is a bad thing.
 p4183
-I1
+I-1
 tp4184
 a(VGreat piece.
 p4185
@@ -8381,7 +8381,7 @@ I-1
 tp4190
 a(VMustaches can't be sexist, I knew a girl in high school who had one...
 p4191
-I1
+I-1
 tp4192
 a(VHe keeps changing:\u000a\u000a"The average family will save $2500 per year.
 p4193
@@ -8417,19 +8417,19 @@ I-1
 tp4208
 a(V  He has almost as much credibility as [this guy](http://www.
 p4209
-I1
+I-1
 tp4210
 a(Vyoutube.
 p4211
-I1
+I-1
 tp4212
 a(Vcom/watch?
 p4213
-I1
+I-1
 tp4214
 a(Vv=4OBN9Qilu8Y), but not quite.
 p4215
-I1
+I-1
 tp4216
 a(VI think this will be a bit different from the Syria situation.
 p4217
@@ -8469,7 +8469,7 @@ I-1
 tp4234
 a(V \u000a\u000aDo they think turning their heads and looking the other way and acting like this isn't happening is a way to save their credibility?
 p4235
-I1
+I-1
 tp4236
 a(V \u000a\u000aBecause it's not.
 p4237
@@ -8561,7 +8561,7 @@ I1
 tp4280
 a(V  Nevermind the fact that, in all probability, there will be nothing left of Social Security by the time this 34-year-old tries to "reap the benefits.
 p4281
-I1
+I-1
 tp4282
 a(V"
 p4283
@@ -8769,7 +8769,7 @@ I-1
 tp4384
 a(V\u000a\u000aYou see, every dollar that is spent killing terrorists is a dollar that is not spent paying someone not to work or spent on abortions.
 p4385
-I1
+I-1
 tp4386
 a(VThe law (ACA) was passed by the legislature, approved by the president, and held up by the supreme court.
 p4387
@@ -8853,7 +8853,7 @@ I-1
 tp4426
 a(VHoly shit this was not only the most annoying thing but the most disgusting thing I've ever seen.
 p4427
-I1
+I-1
 tp4428
 a(Vis this going to be a trend?
 p4429
@@ -9057,11 +9057,11 @@ I1
 tp4528
 a(VYea, it's kinda petty but in his defense...
 p4529
-I1
+I-1
 tp4530
 a(Vsome of them have tea bags hanging off their hats and clothes
 p4531
-I1
+I-1
 tp4532
 a(VMy wife and I have been trying to have a baby for nearly two years now.
 p4533
@@ -9285,11 +9285,11 @@ I-1
 tp4642
 a(VThey should move him to 3 AM so that his show can compete with the Genie Bra infomercial and the NuWave oven.
 p4643
-I1
+I-1
 tp4644
 a(V  He'll probably still lose but at least he's got a better chance of beating the competition at that hour.
 p4645
-I1
+I-1
 tp4646
 a(VI don't think anybody knows what a "trickle" is.
 p4647
@@ -9417,11 +9417,11 @@ I-1
 tp4708
 a(Vnow he should try bending over forwards..
 p4709
-I1
+I-1
 tp4710
 a(V then relax..
 p4711
-I1
+I-1
 tp4712
 a(VYeah, agreed.
 p4713
@@ -9553,7 +9553,7 @@ I-1
 tp4776
 a(VI love Matthews, he's such a dope...
 p4777
-I1
+I-1
 tp4778
 a(V lets not worry if the program is actually sound, or makes sense, its just that the left really really wanted it, so it's bad to fight against it.
 p4779
@@ -9573,7 +9573,7 @@ I-1
 tp4786
 a(V Matthews is the Snooki of opinion-based-news.
 p4787
-I1
+I-1
 tp4788
 a(VGood, maybe people will finally see why the republicans are trying to get rid of this, or we can only hope.
 p4789
@@ -9713,7 +9713,7 @@ I-1
 tp4856
 a(VWill they branch off and make the black tea party?
 p4857
-I1
+I-1
 tp4858
 a(VI enjoyed how there was no option for "White" on the ethnicity.
 p4859
@@ -9861,7 +9861,7 @@ I-1
 tp4930
 a(VIf you have a terrible Presidential legacy, you didn't built that.
 p4931
-I1
+I-1
 tp4932
 a(VThe Obama Administration using powerful government agencies to sience dissent?
 p4933
@@ -9977,7 +9977,7 @@ I-1
 tp4988
 a(V You racist.
 p4989
-I1
+I-1
 tp4990
 a(VWhen snakeoil salesmen are hanging themselves ...
 p4991
@@ -10133,7 +10133,7 @@ I-1
 tp5066
 a(V \u000a\u000aAlso, liberals think a baby is not a baby, errrrr fetus (fetus means off-spring) errrr zygote yeah, zygote that's not a "human", if the mother does not want it.
 p5067
-I1
+I-1
 tp5068
 a(V This is how all the totalitarian governments of old felt about those they deemed a leech on society, they were not wanted, ergo they could be killed.
 p5069
@@ -10201,7 +10201,7 @@ I-1
 tp5100
 a(VFirst the sequester was the end of the world, then when life went on everybody forgot about it.
 p5101
-I1
+I-1
 tp5102
 a(V  Nice to see that it's helping a little.
 p5103
@@ -10213,7 +10213,7 @@ I-1
 tp5106
 a(VThat word-salad was pretty cringe-worthy especially since this motherfucker makes millions of dollars and he can barely speak english.
 p5107
-I1
+I-1
 tp5108
 a(Vstill better than most /r/politics comments
 p5109
@@ -10237,7 +10237,7 @@ I-1
 tp5118
 a(VSomeone's about to get audited by the IRS and get called racist.
 p5119
-I1
+I-1
 tp5120
 a(VTry having a Men Only time and see what you get.
 p5121
@@ -10373,7 +10373,7 @@ I-1
 tp5186
 a(V Yay compromise!
 p5187
-I1
+I-1
 tp5188
 a(V"\u000a\u000aAlso, let us not forget that the Democrats are already compromising on the spending by keeping it at sequester levels.
 p5189
@@ -10405,7 +10405,7 @@ I-1
 tp5202
 a(V It should be in the sidebar at this point.
 p5203
-I1
+I-1
 tp5204
 a(Vhttp://www.
 p5205
@@ -10777,7 +10777,7 @@ I-1
 tp5388
 a(Vclassy...
 p5389
-I1
+I-1
 tp5390
 a(VWhy don't they just pass a bill to fund everything since that's what the majority want to do?
 p5391
@@ -10929,7 +10929,7 @@ I-1
 tp5464
 a(VIt's like Homer Simpson calling *you* fat, lazy and stupid.
 p5465
-I1
+I-1
 tp5466
 a(VVery well said, young man.
 p5467
@@ -10973,19 +10973,19 @@ I-1
 tp5486
 a(V The House ought to shut the place down and turn out the lights over this.
 p5487
-I1
+I-1
 tp5488
 a(V No raising of the national debt.
 p5489
-I1
+I-1
 tp5490
 a(V No way!
 p5491
-I1
+I-1
 tp5492
 a(V No how!
 p5493
-I1
+I-1
 tp5494
 a(VYes I'm sure that as Ben Franklin was working the press to print news he was thinking, "freedom of the press should be managed by the government with a list they control.
 p5495
@@ -11053,7 +11053,7 @@ I-1
 tp5526
 a(VCan the whole United States drop him next?
 p5527
-I1
+I-1
 tp5528
 a(VWhen I first saw the video, I was a bit surprised, since one would have to be pretty gullible to believe the part of the audience visible behind the President when he appears in public are not carefully vetted for security and political reasons.
 p5529
@@ -11065,15 +11065,15 @@ I-1
 tp5532
 a(VWhat is bad for President Obama is bad for America!
 p5533
-I1
+I-1
 tp5534
 a(V Getting people all upset over a few glitches is bad for America.
 p5535
-I1
+I-1
 tp5536
 a(V They are doing their civic duty by ignoring the hub bub.
 p5537
-I1
+I-1
 tp5538
 a(VHere's the whole picture:\u000a\u000a&gt;Over the whole sample, 76% want Obama and the Democrats to compromise, and 78% want House Republicans to compromise.
 p5539
@@ -11113,11 +11113,11 @@ I-1
 tp5556
 a(VI'm just glad Feinstein was slow on the copypasta to suggest the suspect was armed with an AR-15.
 p5557
-I1
+I-1
 tp5558
 a(VThe rest of the country that's actually been paying attention: *"Duh!
 p5559
-I1
+I-1
 tp5560
 a(V"*
 p5561
@@ -11185,7 +11185,7 @@ I-1
 tp5592
 a(V I guess someone got a set of balls for Christmas .
 p5593
-I1
+I-1
 tp5594
 a(VFINALLY, Kevin Sorbo weighs in.
 p5595
@@ -11249,7 +11249,7 @@ I-1
 tp5624
 a(VThe family could use a few rounds as well.
 p5625
-I1
+I-1
 tp5626
 a(VYES!
 p5627
@@ -11273,7 +11273,7 @@ I1
 tp5636
 a(V Most of the people who really need health insurance, really can't afford it.
 p5637
-I1
+I-1
 tp5638
 a(V News at 11.
 p5639
@@ -11289,7 +11289,7 @@ I-1
 tp5644
 a(VBiden's Niece is Kaley Cuoco?
 p5645
-I1
+I-1
 tp5646
 a(VFor Satan finds some mischief still \u000aFor idle hands to do.
 p5647

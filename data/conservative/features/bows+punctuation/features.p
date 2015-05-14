@@ -183,7 +183,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p74
 tp75
 bsbsg50
-I1
+I-1
 ssS' Nothing to see here folks...'
 p76
 (dp77
@@ -459,7 +459,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p174
 tp175
 bsbsg50
-I1
+I-1
 ssS' \n\nI guess he never said which way the curve was going to be bent though, but if history can teach us something, every spending curve is bent upwards under the Democrats. PUNCxUPPERCASE'
 p176
 (dp177
@@ -597,7 +597,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p224
 tp225
 bsbsg50
-I1
+I-1
 ssS" I also don't want to imply that religion should be the moral compass for us as Americans."
 p226
 (dp227
@@ -942,7 +942,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p349
 tp350
 bsbsg50
-I1
+I-1
 ssS'This is pretty fucked up.'
 p351
 (dp352
@@ -1425,7 +1425,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p524
 tp525
 bsbsg50
-I1
+I-1
 ssS"  Obamacare is a failure, therefore it was a conservative idea and Obama's failures are all due to his strong conservatism."
 p526
 (dp527
@@ -1701,7 +1701,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p624
 tp625
 bsbsg50
-I1
+I-1
 ssS' And I have been burned every single time.'
 p626
 (dp627
@@ -3840,7 +3840,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p1399
 tp1400
 bsbsg50
-I1
+I-1
 ssS'  In my mind, the world has a liberal bias and I skew everything to suit my views.'
 p1401
 (dp1402
@@ -4599,7 +4599,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p1674
 tp1675
 bsbsg50
-I1
+I-1
 ssS'\n\nWhen the ACA was enacted, existing plans were grandfathered in. PUNCxUPPERCASE'
 p1676
 (dp1677
@@ -8876,7 +8876,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p3223
 tp3224
 bsbsg50
-I1
+I-1
 ssS'  With the cheapest insurance I can currently find, that would be $18,190.'
 p3225
 (dp3226
@@ -9359,7 +9359,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p3398
 tp3399
 bsbsg50
-I1
+I-1
 ssS' This way the liberals are getting more people onto the government plantation using the "Oh you want to kill grandma because your evil and dont care about the people" tactic.'
 p3400
 (dp3401
@@ -9635,7 +9635,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p3498
 tp3499
 bsbsg50
-I1
+I-1
 ssS"*  \n  \nEdit: former sec def, you're in my head! PUNCxEXCLAMATION_POINT"
 p3500
 (dp3501
@@ -10325,7 +10325,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p3748
 tp3749
 bsbsg50
-I1
+I-1
 ssS" Imagine Reagan's gets a huge 118% raise going from $11,420/yr to $28,570/yr, while Obama's only gets a meager 27% raise going from $135,620/yr to $172,040/yr."
 p3750
 (dp3751
@@ -10739,7 +10739,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p3898
 tp3899
 bsbsg50
-I1
+I-1
 ssS' It has to come from somewhere you idiots and you signed up to foot the bill.'
 p3900
 (dp3901
@@ -11015,7 +11015,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p3998
 tp3999
 bsbsg50
-I1
+I-1
 ssS'Lack of jobs is a symptom of these young folk, the problem is lack of leadership.'
 p4000
 (dp4001
@@ -11360,7 +11360,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p4123
 tp4124
 bsbsg50
-I1
+I-1
 ssS'\n\nStill, they are among the largest deficits as a percent of GDP as well, outside of WW1 and WW2. PUNCxUPPERCASE'
 p4125
 (dp4126
@@ -12602,7 +12602,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p4573
 tp4574
 bsbsg50
-I1
+I-1
 ssS" No rational person puts any stock what so ever in the river of shit gushing out of Barak Obama's mouths."
 p4575
 (dp4576
@@ -14051,7 +14051,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p5098
 tp5099
 bsbsg50
-I1
+I-1
 ssS"\n\nIf Boehner brought a clean CR today, a large percentage of republicans would vote for it, he can't bring it right now."
 p5100
 (dp5101
@@ -14120,7 +14120,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p5123
 tp5124
 bsbsg50
-I1
+I-1
 ssS' \n\nWould not surprise me a bit if they had decided that Arizona could be the test site for Iranian detonations, considering how much trouble Arizona has caused this administration.'
 p5125
 (dp5126
@@ -15707,7 +15707,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p5698
 tp5699
 bsbsg50
-I1
+I-1
 ssS' We compromise to pass laws and make things happen, the same goes for any negotiation in government.'
 p5700
 (dp5701
@@ -18398,7 +18398,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p6673
 tp6674
 bsbsg50
-I1
+I-1
 ssS" that way he wouldn't have to lie about it."
 p6675
 (dp6676
@@ -20328,7 +20328,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p7371
 tp7372
 bsbsg50
-I1
+I-1
 ssS'I sure hope all those single, young women who are moved to vote on the basis of free birth control will have time to maximize their promiscuity between their multiple part time, low-paying jobs.'
 p7373
 (dp7374
@@ -21706,7 +21706,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p7869
 tp7870
 bsbsg50
-I1
+I-1
 ssS'\n\nAnd what is stuck in his throat? PUNCxQUESTION_MARK'
 p7871
 (dp7872
@@ -22601,7 +22601,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p8192
 tp8193
 bsbsg50
-I1
+I-1
 ssS' \xe2\x80\x9cPut it this way, two thirds want a clean CR. PUNCxUPPERCASE'
 p8194
 (dp8195
@@ -22877,7 +22877,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p8292
 tp8293
 bsbsg50
-I1
+I-1
 ssS" I personally don't, but so many people do."
 p8294
 (dp8295
@@ -23153,7 +23153,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p8392
 tp8393
 bsbsg50
-I1
+I-1
 ssS' "All of this points to what really is an inequality crisis in America today \xe2\x80\x93 a crisis not of unequal wealth or income\xe2\x80\xa6 but unequal opportunity.'
 p8394
 (dp8395
@@ -23291,7 +23291,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p8442
 tp8443
 bsbsg50
-I1
+I-1
 ssS' \n\nThis is a great week! PUNCxEXCLAMATION_POINT'
 p8444
 (dp8445
@@ -23360,7 +23360,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p8467
 tp8468
 bsbsg50
-I1
+I-1
 ssS'If bending over backwards means not negotiating then heck anyone can do this job.'
 p8469
 (dp8470
@@ -23429,7 +23429,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p8492
 tp8493
 bsbsg50
-I1
+I-1
 ssS"Holy shit this was not only the most annoying thing but the most disgusting thing I've ever seen."
 p8494
 (dp8495
@@ -23498,7 +23498,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p8517
 tp8518
 bsbsg50
-I1
+I-1
 ssS' This is because we recognize that MLK Day is deeply important to a certain subset of Americans. PUNCxUPPERCASE'
 p8519
 (dp8520
@@ -25706,7 +25706,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p9317
 tp9318
 bsbsg50
-I1
+I-1
 ssS' \n\nWe often assume we are both using the same dictionary and unfortunately, that is not longer a safe assumption.'
 p9319
 (dp9320
@@ -26187,7 +26187,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p9490
 tp9491
 bsbsg50
-I1
+I-1
 ssS"I don't think either side can claim to know the truth."
 p9492
 (dp9493
@@ -26325,7 +26325,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p9540
 tp9541
 bsbsg50
-I1
+I-1
 ssS' Much what my department did was bureaucratic paper shuffling on a monumental scale.'
 p9542
 (dp9543
@@ -26808,7 +26808,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p9715
 tp9716
 bsbsg50
-I1
+I-1
 ssS'Will they branch off and make the black tea party? PUNCxQUESTION_MARK'
 p9717
 (dp9718
@@ -26877,7 +26877,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p9740
 tp9741
 bsbsg50
-I1
+I-1
 ssS'  Someone was having a bakesale and other people went full retard.'
 p9742
 (dp9743
@@ -27843,7 +27843,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p10090
 tp10091
 bsbsg50
-I1
+I-1
 ssS"This is a pretty interesting argument, I've never heard it before."
 p10092
 (dp10093
@@ -29773,7 +29773,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p10788
 tp10789
 bsbsg50
-I1
+I-1
 ssS'newsmax.'
 p10790
 (dp10791
@@ -30806,7 +30806,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p11161
 tp11162
 bsbsg50
-I1
+I-1
 ssS'Poor Obama must have a very short-term memory because he swore he never said this even though it was recorded for the whole world to see...'
 p11163
 (dp11164
@@ -30875,7 +30875,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p11186
 tp11187
 bsbsg50
-I1
+I-1
 ssS'\n\nThis is wrong.'
 p11188
 (dp11189
@@ -31151,7 +31151,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p11286
 tp11287
 bsbsg50
-I1
+I-1
 ssS'\n\nThe two biggest victims of the ACA are the people who can no longer afford their private insurance because of the minimum standards:\n\n1. PUNCxUPPERCASE'
 p11288
 (dp11289
@@ -31634,7 +31634,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p11461
 tp11462
 bsbsg50
-I1
+I-1
 ssS"It's amusing to me when atheist try to convince me that paying taxes is what God meant by helping the poor."
 p11463
 (dp11464
@@ -32186,7 +32186,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p11661
 tp11662
 bsbsg50
-I1
+I-1
 ssS" The new age on the rise in this nation is concerned more about the new iphone and kanye west's baby then their own rights and healthcare."
 p11663
 (dp11664
@@ -33566,7 +33566,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p12161
 tp12162
 bsbsg50
-I1
+I-1
 ssS'\n\nFor instance, if a goal is to lower the cost of healthcare, we can use economics to tell us why healthcare is so expensive in the first place.'
 p12163
 (dp12164
@@ -33773,7 +33773,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p12236
 tp12237
 bsbsg50
-I1
+I-1
 ssS"What, now Dictator Obama can declare what is legal and what isn't, and legislation be damned? PUNCxQUESTION_MARK"
 p12238
 (dp12239
@@ -35356,7 +35356,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p12807
 tp12808
 bsbsg50
-I1
+I-1
 ssS'These were probably the same harpies screaming at Scott Walker.'
 p12809
 (dp12810
@@ -35632,7 +35632,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p12907
 tp12908
 bsbsg50
-I1
+I-1
 ssS'  \n2.'
 p12909
 (dp12910
@@ -36732,7 +36732,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p13303
 tp13304
 bsbsg50
-I1
+I-1
 ssS" The issue being not that climate change isn't happening but that the left has turned what could have been a nonpartisan effort into a venomous power grab."
 p13305
 (dp13306
@@ -37558,7 +37558,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p13601
 tp13602
 bsbsg50
-I1
+I-1
 ssS' If they\'re especially ignorant they will say something like "Remember how Jesus said to Render unto Caesar...? PUNCxQUESTION_MARK'
 p13603
 (dp13604
@@ -39352,7 +39352,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p14251
 tp14252
 bsbsg50
-I1
+I-1
 ssS' Yay compromise! PUNCxEXCLAMATION_POINT'
 p14253
 (dp14254
@@ -39421,7 +39421,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p14276
 tp14277
 bsbsg50
-I1
+I-1
 ssS'  The reason that the number is that high is due to his base supporting his policy positions, regardless of his ability to implement them.'
 p14278
 (dp14279
@@ -40249,7 +40249,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p14576
 tp14577
 bsbsg50
-I1
+I-1
 ssS'  If they needed or *wanted* to spend more on healthcare, they were most capable of doing so.'
 p14578
 (dp14579
@@ -40387,7 +40387,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p14626
 tp14627
 bsbsg50
-I1
+I-1
 ssS' The fact is that in their present form, they - and by that I mean their government, not, for the most part at least, the individual Israeli - are every bit as harmful to the world as any other extremist, terrorist, or similar malignancy, whether it be Hamas or Obama or whoever.'
 p14628
 (dp14629
@@ -41146,7 +41146,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p14901
 tp14902
 bsbsg50
-I1
+I-1
 ssS' He pointed out ACA was not forcing them to drop those plans, rather in essence shifting the market to where those policies would no longer be good to have, so companies dropped them. PUNCxUPPERCASE'
 p14903
 (dp14904
@@ -41422,7 +41422,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p15001
 tp15002
 bsbsg50
-I1
+I-1
 ssS' Here is the full, official deal: http://www.'
 p15003
 (dp15004
@@ -43009,7 +43009,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p15576
 tp15577
 bsbsg50
-I1
+I-1
 ssS" Hillary's Achille's Heel is a conspiracy theory? PUNCxQUESTION_MARK"
 p15578
 (dp15579
@@ -44251,7 +44251,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p16026
 tp16027
 bsbsg50
-I1
+I-1
 ssS'This is news? PUNCxQUESTION_MARK'
 p16028
 (dp16029
@@ -46321,7 +46321,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p16776
 tp16777
 bsbsg50
-I1
+I-1
 ssS" A court could rule that eating ice cream is unconstitutional, that doesn't mean the constitution had anything to do with the ruling."
 p16778
 (dp16779
@@ -51904,7 +51904,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p18795
 tp18796
 bsbsg50
-I1
+I-1
 ssS" I'm being genuine here and trying to start a discussion."
 p18797
 (dp18798
@@ -52111,7 +52111,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p18870
 tp18871
 bsbsg50
-I1
+I-1
 ssS'  Diversity training is one thing.'
 p18872
 (dp18873
@@ -53213,7 +53213,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p19268
 tp19269
 bsbsg50
-I1
+I-1
 ssS'Scientists hate him! PUNCxEXCLAMATION_POINT'
 p19270
 (dp19271
@@ -54453,7 +54453,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p19716
 tp19717
 bsbsg50
-I1
+I-1
 ssS"Ted Cruz is only doing what he's doing for his own ambition."
 p19718
 (dp19719
@@ -55419,7 +55419,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p20066
 tp20067
 bsbsg50
-I1
+I-1
 ssS" and whoever follows Obama I'll be an even bigger control freak."
 p20068
 (dp20069
@@ -55695,7 +55695,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p20166
 tp20167
 bsbsg50
-I1
+I-1
 ssS"Reporting another black-on-black murder doesn't help the liberal media agenda."
 p20168
 (dp20169
@@ -56937,7 +56937,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p20616
 tp20617
 bsbsg50
-I1
+I-1
 ssS'  The republicans have tried to reign it in but the howls over the haircut have been deafening.'
 p20618
 (dp20619
@@ -57351,7 +57351,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p20766
 tp20767
 bsbsg50
-I1
+I-1
 ssS' Why would America be different? PUNCxQUESTION_MARK'
 p20768
 (dp20769
@@ -58384,7 +58384,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p21139
 tp21140
 bsbsg50
-I1
+I-1
 ssS'&gt;  Is there some anti-conservative bot attacking this site? PUNCxQUESTION_MARK'
 p21141
 (dp21142
@@ -58865,7 +58865,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p21312
 tp21313
 bsbsg50
-I1
+I-1
 ssS' The Obamacare mess can easily be tied to Hillary in 2016.'
 p21314
 (dp21315
@@ -59415,7 +59415,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p21510
 tp21511
 bsbsg50
-I1
+I-1
 ssS' Also, what happens if 90% of the participants switch to one of the new plans.'
 p21512
 (dp21513
@@ -60448,7 +60448,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p21883
 tp21884
 bsbsg50
-I1
+I-1
 ssS' In this case, the Democrats will give in to a 1 year delay if the Republicans give into what? PUNCxQUESTION_MARK'
 p21885
 (dp21886
@@ -63277,7 +63277,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p22908
 tp22909
 bsbsg50
-I1
+I-1
 ssS" Even if they don't like that its the truth."
 p22910
 (dp22911
@@ -63829,7 +63829,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p23108
 tp23109
 bsbsg50
-I1
+I-1
 ssS' Rubio is always making bold claims like this to keep his name relevant.'
 p23110
 (dp23111
@@ -65416,7 +65416,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p23683
 tp23684
 bsbsg50
-I1
+I-1
 ssS'  Censorship, though? PUNCxQUESTION_MARK'
 p23685
 (dp23686
@@ -66865,7 +66865,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p24208
 tp24209
 bsbsg50
-I1
+I-1
 ssS'I had a similar experience at a very large, well known university when I began my doctoral studies.'
 p24210
 (dp24211
@@ -67346,7 +67346,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p24381
 tp24382
 bsbsg50
-I1
+I-1
 ssS'so let me get this straight, they bitch and moan about having a government funded "affordable" healthcare system, and now that their dear leader gives them this new ability they bitch and moan they want it for free? PUNCxQUESTION_MARK'
 p24383
 (dp24384
@@ -68103,7 +68103,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p24654
 tp24655
 bsbsg50
-I1
+I-1
 ssS'The branches of govenerment are working exactly as intended...'
 p24656
 (dp24657
@@ -68241,7 +68241,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p24704
 tp24705
 bsbsg50
-I1
+I-1
 ssS'  \n\nBottom line, pointing fingers about the debt is a losing argument for Republicans.'
 p24706
 (dp24707
@@ -68724,7 +68724,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p24879
 tp24880
 bsbsg50
-I1
+I-1
 ssS'Obama was unaware that he ever said this.'
 p24881
 (dp24882
@@ -69483,7 +69483,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p25154
 tp25155
 bsbsg50
-I1
+I-1
 ssS'204 currently, for a percent increase of 27% (but he is only responsible for 4 fiscal years so far).'
 p25156
 (dp25157
@@ -70309,7 +70309,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p25452
 tp25453
 bsbsg50
-I1
+I-1
 ssS' \n\n\n[Discussion of the incident on /r/Austin](http://www.'
 p25454
 (dp25455
@@ -70516,7 +70516,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p25527
 tp25528
 bsbsg50
-I1
+I-1
 ssS'  I mean, can you imagine if Obama was on track to increase the debt to $33.'
 p25529
 (dp25530
@@ -71689,7 +71689,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p25952
 tp25953
 bsbsg50
-I1
+I-1
 ssS' Perhaps they\xe2\x80\x99ll find a way to restore the canceled policies without wrecking the financial underpinning of the exchanges.'
 p25954
 (dp25955
@@ -72101,7 +72101,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p26100
 tp26101
 bsbsg50
-I1
+I-1
 ssS'  Those damn greedy CEOs are the ones to blame.'
 p26102
 (dp26103
@@ -72377,7 +72377,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p26200
 tp26201
 bsbsg50
-I1
+I-1
 ssS'id=229635361&amp;sec=551217&amp;ref=rcvidmod) The video from the air tells the tale: A crowd of people outside Highland Mall Saturday night refusing to the leave the scene.'
 p26202
 (dp26203
@@ -72929,7 +72929,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p26400
 tp26401
 bsbsg50
-I1
+I-1
 ssS'\n\nI would never say that opposition to Obama is inherently rooted in racism,because that is very very stupid. PUNCxUPPERCASE'
 p26402
 (dp26403
@@ -73136,7 +73136,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p26475
 tp26476
 bsbsg50
-I1
+I-1
 ssS'The best part was when asked about the president\'s involvement, she replied "Whatever.'
 p26477
 (dp26478
@@ -73205,7 +73205,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p26500
 tp26501
 bsbsg50
-I1
+I-1
 ssS'  Instead of saving for retirement/healthcare, it becomes advantageous to spend your money as quickly as you can.'
 p26502
 (dp26503
@@ -73412,7 +73412,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p26575
 tp26576
 bsbsg50
-I1
+I-1
 ssS' He just lost.'
 p26577
 (dp26578
@@ -73895,7 +73895,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p26750
 tp26751
 bsbsg50
-I1
+I-1
 ssS'com/Newsfront/public-blames-obama-gop/2013/10/09/id/530025).'
 p26752
 (dp26753
@@ -74033,7 +74033,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p26800
 tp26801
 bsbsg50
-I1
+I-1
 ssS' Deductable is $3000 (family plan).'
 p26802
 (dp26803
@@ -74171,7 +74171,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p26850
 tp26851
 bsbsg50
-I1
+I-1
 ssS'Huntsville has the highest number of PhDs of any city and is a lovely place to live.'
 p26852
 (dp26853
@@ -75344,7 +75344,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p27275
 tp27276
 bsbsg50
-I1
+I-1
 ssS' Hurricanes are not increasing in frequency and severity.'
 p27277
 (dp27278
@@ -75827,7 +75827,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p27450
 tp27451
 bsbsg50
-I1
+I-1
 ssS' \n\nEdit: I should clarify, un-*government* regulated markets function better.'
 p27452
 (dp27453
@@ -79208,7 +79208,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p28675
 tp28676
 bsbsg50
-I1
+I-1
 ssS'I got told this very same thing in my service learning class at college.'
 p28677
 (dp28678
@@ -82930,7 +82930,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p30021
 tp30022
 bsbsg50
-I1
+I-1
 ssS"I'm watching the House oversight committee hearing about this right now."
 p30023
 (dp30024
@@ -83275,7 +83275,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p30146
 tp30147
 bsbsg50
-I1
+I-1
 ssS' \n\nObama is President specifically because he *is* half black.'
 p30148
 (dp30149
@@ -85276,7 +85276,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p30871
 tp30872
 bsbsg50
-I1
+I-1
 ssS"I think it's a mistake to equate government regulations in general to stop lights."
 p30873
 (dp30874
@@ -87484,7 +87484,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p31671
 tp31672
 bsbsg50
-I1
+I-1
 ssS'This just in.'
 p31673
 (dp31674
@@ -89209,7 +89209,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p32296
 tp32297
 bsbsg50
-I1
+I-1
 ssS'Straightforward! PUNCxEXCLAMATION_POINT'
 p32298
 (dp32299
@@ -93345,7 +93345,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p33792
 tp33793
 bsbsg50
-I1
+I-1
 ssS'I understand their strategy.'
 p33794
 (dp33795
@@ -94104,7 +94104,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p34067
 tp34068
 bsbsg50
-I1
+I-1
 ssS'com/_news/2013/10/28/21213547-obama-admin-knew-millions-could-not-keep-their-health-insurance? PUNCxQUESTION_MARK'
 p34069
 (dp34070
@@ -95687,7 +95687,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p34638
 tp34639
 bsbsg50
-I1
+I-1
 ssS'It was a dumb thing to believe from the beginning.'
 p34640
 (dp34641
@@ -96101,7 +96101,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p34788
 tp34789
 bsbsg50
-I1
+I-1
 ssS' \n\nThe answer to some is a tough pill to swallow: Government aid will hurt your career choice in the long run.'
 p34790
 (dp34791
@@ -96239,7 +96239,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p34838
 tp34839
 bsbsg50
-I1
+I-1
 ssS"It's really reverse racism."
 p34840
 (dp34841
@@ -98792,7 +98792,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p35763
 tp35764
 bsbsg50
-I1
+I-1
 ssS" That's better than democrats expected actually."
 p35765
 (dp35766
@@ -99068,7 +99068,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p35863
 tp35864
 bsbsg50
-I1
+I-1
 ssS'"](https://en.'
 p35865
 (dp35866
@@ -99344,7 +99344,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p35963
 tp35964
 bsbsg50
-I1
+I-1
 ssS' Umm what?! PUNCxEXCLAMATION_POINT PUNCxQUESTION_MARK PUNCxINTERROBANG'
 p35965
 (dp35966
@@ -100239,7 +100239,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p36286
 tp36287
 bsbsg50
-I1
+I-1
 ssS"  If some crazy dude was following me at night you better believe I'm confronting him..."
 p36288
 (dp36289
@@ -103896,7 +103896,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p37611
 tp37612
 bsbsg50
-I1
+I-1
 ssS' really funny.'
 p37613
 (dp37614
@@ -104517,7 +104517,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p37836
 tp37837
 bsbsg50
-I1
+I-1
 ssS"  I'm unaware of anything going on near there that poses a threat to our embassies, and I have extended family working not too far from the Vatican."
 p37838
 (dp37839
@@ -104931,7 +104931,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p37986
 tp37987
 bsbsg50
-I1
+I-1
 ssS' It seems that revisionism is the nature of progressivism--the idea that the old normative methods are inherently bad and thus must be changed for the sake of change.'
 p37988
 (dp37989
@@ -105138,7 +105138,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p38061
 tp38062
 bsbsg50
-I1
+I-1
 ssS'forbes.'
 p38063
 (dp38064
@@ -106242,7 +106242,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p38461
 tp38462
 bsbsg50
-I1
+I-1
 ssS'  \n\nI am personally not conservative, but I have a higher opinion of most of you than I will ever have of Ayn Rand. PUNCxUPPERCASE'
 p38463
 (dp38464
@@ -106863,7 +106863,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p38686
 tp38687
 bsbsg50
-I1
+I-1
 ssS'$780 in food stamps (plus WIC)! PUNCxEXCLAMATION_POINT PUNCxUPPERCASE'
 p38688
 (dp38689
@@ -106932,7 +106932,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p38711
 tp38712
 bsbsg50
-I1
+I-1
 ssS' There has to be extraordinary circumstances to vote against them.'
 p38713
 (dp38714
@@ -107415,7 +107415,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p38886
 tp38887
 bsbsg50
-I1
+I-1
 ssS'Get used to it.'
 p38888
 (dp38889
@@ -107691,7 +107691,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p38986
 tp38987
 bsbsg50
-I1
+I-1
 ssS'From the article: *"I think, for a large part of the population, rates are going to go up anyway under the Affordable Care Act. PUNCxUPPERCASE'
 p38988
 (dp38989
@@ -108036,7 +108036,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p39111
 tp39112
 bsbsg50
-I1
+I-1
 ssS'Once he realizes he was caught he started acting like such a tool.'
 p39113
 (dp39114
@@ -108657,7 +108657,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p39336
 tp39337
 bsbsg50
-I1
+I-1
 ssS'  Another reason for gay marriage is for liberals to go after religion.'
 p39338
 (dp39339
@@ -110865,7 +110865,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p40136
 tp40137
 bsbsg50
-I1
+I-1
 ssS' Has Obama shut down Medicaid...'
 p40138
 (dp40139
@@ -111624,7 +111624,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p40411
 tp40412
 bsbsg50
-I1
+I-1
 ssS'Another related article.'
 p40413
 (dp40414
@@ -112107,7 +112107,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p40586
 tp40587
 bsbsg50
-I1
+I-1
 ssS' My employer forks over pretty much the same I pay, so if I were to leave and get an individual plan my rte would double.'
 p40588
 (dp40589
@@ -112657,7 +112657,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p40784
 tp40785
 bsbsg50
-I1
+I-1
 ssS'Wow, what a concept! PUNCxEXCLAMATION_POINT'
 p40786
 (dp40787
@@ -115415,7 +115415,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p41782
 tp41783
 bsbsg50
-I1
+I-1
 ssS'  The debt was $1.'
 p41784
 (dp41785
@@ -115553,7 +115553,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p41832
 tp41833
 bsbsg50
-I1
+I-1
 ssS"  When measuring the percent increase in the national debt, the Reagan and GWB administrations' stewardship of the debt was unconscionable. PUNCxUPPERCASE"
 p41834
 (dp41835
@@ -116243,7 +116243,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p42082
 tp42083
 bsbsg50
-I1
+I-1
 ssS' asians would pay 2.'
 p42084
 (dp42085
@@ -116312,7 +116312,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p42107
 tp42108
 bsbsg50
-I1
+I-1
 ssS' " - Rush'
 p42109
 (dp42110
@@ -118106,7 +118106,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p42757
 tp42758
 bsbsg50
-I1
+I-1
 ssS"I'm just glad Feinstein was slow on the copypasta to suggest the suspect was armed with an AR-15. PUNCxUPPERCASE"
 p42759
 (dp42760
@@ -118175,7 +118175,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p42782
 tp42783
 bsbsg50
-I1
+I-1
 ssS' That continuing to hold that conviction means throwing the family member under the bus? PUNCxQUESTION_MARK'
 p42784
 (dp42785
@@ -118796,7 +118796,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p43007
 tp43008
 bsbsg50
-I1
+I-1
 ssS' Serious you guys.'
 p43009
 (dp43010
@@ -119348,7 +119348,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p43207
 tp43208
 bsbsg50
-I1
+I-1
 ssS" I just think it's funny at this point."
 p43209
 (dp43210
@@ -120107,7 +120107,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p43482
 tp43483
 bsbsg50
-I1
+I-1
 ssS' They are doing their civic duty by ignoring the hub bub.'
 p43484
 (dp43485
@@ -120176,7 +120176,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p43507
 tp43508
 bsbsg50
-I1
+I-1
 ssS' It ties for my other favorite which is where he claimed Libya was caused by a video.'
 p43509
 (dp43510
@@ -120245,7 +120245,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p43532
 tp43533
 bsbsg50
-I1
+I-1
 ssS"  Nice to see that it's helping a little."
 p43534
 (dp43535
@@ -122177,7 +122177,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p44232
 tp44233
 bsbsg50
-I1
+I-1
 ssS'\n\nNobody is claiming that no human has ever negatively effected the environment.'
 p44234
 (dp44235
@@ -122315,7 +122315,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p44282
 tp44283
 bsbsg50
-I1
+I-1
 ssS"This attitude isn't very Christian of you."
 p44284
 (dp44285
@@ -124314,7 +124314,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p45005
 tp45006
 bsbsg50
-I1
+I-1
 ssS' now i am all pissed off! PUNCxEXCLAMATION_POINT'
 p45007
 (dp45008
@@ -124452,7 +124452,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p45055
 tp45056
 bsbsg50
-I1
+I-1
 ssS'&gt;All I know is I finally started reading some of Obamacare last night to find out what it\xe2\x80\x99s about.'
 p45057
 (dp45058
@@ -126384,7 +126384,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p45755
 tp45756
 bsbsg50
-I1
+I-1
 ssS'  Rather than running to do the work of the people, politicians run to spend their lives in the Senate and enjoy all the power and prestige that comes with belonging to that club, then retire with a huge pension and ridiculous benefits.'
 p45757
 (dp45758
@@ -127074,7 +127074,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p46005
 tp46006
 bsbsg50
-I1
+I-1
 ssS'  I disagree with this letter strongly.'
 p46007
 (dp46008
@@ -127350,7 +127350,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p46105
 tp46106
 bsbsg50
-I1
+I-1
 ssS" Doesn't matter if the writer was black or not, everything he said was accurate."
 p46107
 (dp46108
@@ -127764,7 +127764,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p46255
 tp46256
 bsbsg50
-I1
+I-1
 ssS'eur.'
 p46257
 (dp46258
@@ -129006,7 +129006,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p46705
 tp46706
 bsbsg50
-I1
+I-1
 ssS'Yes I\'m sure that as Ben Franklin was working the press to print news he was thinking, "freedom of the press should be managed by the government with a list they control.'
 p46707
 (dp46708
@@ -129418,7 +129418,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p46853
 tp46854
 bsbsg50
-I1
+I-1
 ssS'imagine that this person has an unwed sister who did get pregnant and is now an unwed mother.'
 p46855
 (dp46856
@@ -130798,7 +130798,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p47353
 tp47354
 bsbsg50
-I1
+I-1
 ssS'Noam Chomsky is a liberal? PUNCxQUESTION_MARK'
 p47355
 (dp47356
@@ -131212,7 +131212,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p47503
 tp47504
 bsbsg50
-I1
+I-1
 ssS"The music isn't bad."
 p47505
 (dp47506
@@ -132454,7 +132454,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p47953
 tp47954
 bsbsg50
-I1
+I-1
 ssS' **NO! PUNCxEXCLAMATION_POINT PUNCxUPPERCASE'
 p47955
 (dp47956
@@ -133558,7 +133558,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p48353
 tp48354
 bsbsg50
-I1
+I-1
 ssS'com/r/Austin/comments/1pfyb2/riot_at_highland_mall/)'
 p48355
 (dp48356
@@ -134524,7 +134524,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p48703
 tp48704
 bsbsg50
-I1
+I-1
 ssS'com/2013/11/26/prof-corrects-minority-students-capitalization-is-accused-of-racism/)'
 p48705
 (dp48706
@@ -135488,7 +135488,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p49051
 tp49052
 bsbsg50
-I1
+I-1
 ssS"People who don't understand this are idiots."
 p49053
 (dp49054
@@ -135764,7 +135764,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p49151
 tp49152
 bsbsg50
-I1
+I-1
 ssS'\n\nUnregulated capitalism pushes towards slavery.'
 p49153
 (dp49154
@@ -137211,7 +137211,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p49674
 tp49675
 bsbsg50
-I1
+I-1
 ssS'"Money does grow off trees, right? PUNCxQUESTION_MARK'
 p49676
 (dp49677
@@ -139074,7 +139074,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p50349
 tp50350
 bsbsg50
-I1
+I-1
 ssS'But...'
 p50351
 (dp50352
@@ -139279,7 +139279,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p50422
 tp50423
 bsbsg50
-I1
+I-1
 ssS'562 at the end, for a percent increase of 118%.'
 p50424
 (dp50425
@@ -139624,7 +139624,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p50547
 tp50548
 bsbsg50
-I1
+I-1
 ssS'I do like how Anderson Cooper tries to defend Obama by saying that Laszewski has been opposed to Obamacare and that the White House is calling it preposterous.'
 p50549
 (dp50550
@@ -139760,7 +139760,7 @@ I00
 g2743
 tp50596
 bsbsg50
-I1
+I-1
 ssS" Isn't this a state level issue, what gives a city this authority? PUNCxQUESTION_MARK"
 p50597
 (dp50598
@@ -140864,7 +140864,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p50995
 tp50996
 bsbsg50
-I1
+I-1
 ssS'\n\nWorst president ever.'
 p50997
 (dp50998
@@ -141761,7 +141761,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p51320
 tp51321
 bsbsg50
-I1
+I-1
 ssS'wikiquote.'
 p51322
 (dp51323
@@ -142037,7 +142037,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p51420
 tp51421
 bsbsg50
-I1
+I-1
 ssS'Great piece.'
 p51422
 (dp51423
@@ -142520,7 +142520,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p51595
 tp51596
 bsbsg50
-I1
+I-1
 ssS' Conservatives and libertarians oppose over-regulation and bloated government.'
 p51597
 (dp51598
@@ -143900,7 +143900,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p52095
 tp52096
 bsbsg50
-I1
+I-1
 ssS" It's tough, but I got angry when her coworkers offered us their sympathy."
 p52097
 (dp52098
@@ -145830,7 +145830,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p52793
 tp52794
 bsbsg50
-I1
+I-1
 ssS'For conservatives, Mike Malloy is the Michael Savage of the left.'
 p52795
 (dp52796
@@ -147760,7 +147760,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p53491
 tp53492
 bsbsg50
-I1
+I-1
 ssS' I am guessing this would go under cronyism.'
 p53493
 (dp53494
@@ -148174,7 +148174,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p53641
 tp53642
 bsbsg50
-I1
+I-1
 ssS'&gt; I own a home worth about $175,000...'
 p53643
 (dp53644
@@ -148519,7 +148519,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p53766
 tp53767
 bsbsg50
-I1
+I-1
 ssS' You are SOL. PUNCxUPPERCASE'
 p53768
 (dp53769
@@ -149209,7 +149209,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p54016
 tp54017
 bsbsg50
-I1
+I-1
 ssS"I really don't think this qualifies as being dicks."
 p54018
 (dp54019
@@ -149623,7 +149623,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p54166
 tp54167
 bsbsg50
-I1
+I-1
 ssS' Not.'
 p54168
 (dp54169
@@ -150104,7 +150104,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p54339
 tp54340
 bsbsg50
-I1
+I-1
 ssS' See graphs below:\n\n[Spending to GDP percentage](http://www. PUNCxUPPERCASE'
 p54341
 (dp54342
@@ -153347,7 +153347,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p55514
 tp55515
 bsbsg50
-I1
+I-1
 ssS' How civil and becoming of a professional news host.'
 p55516
 (dp55517
@@ -154658,7 +154658,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p55989
 tp55990
 bsbsg50
-I1
+I-1
 ssS"It's about time."
 p55991
 (dp55992
@@ -155486,7 +155486,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p56289
 tp56290
 bsbsg50
-I1
+I-1
 ssS'  I thought property taxes were bad! PUNCxEXCLAMATION_POINT'
 p56291
 (dp56292
@@ -157487,7 +157487,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p57014
 tp57015
 bsbsg50
-I1
+I-1
 ssS"  I don't think Martin Luther King is more important than our vets or unions (Labor day)."
 p57016
 (dp57017
@@ -159963,7 +159963,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p57906
 tp57907
 bsbsg50
-I1
+I-1
 ssS'Funny how the private sector and the wealthy are literally the goose that lays the golden egg....'
 p57908
 (dp57909
@@ -160377,7 +160377,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p58056
 tp58057
 bsbsg50
-I1
+I-1
 ssS'  When the pendulum swings back to the right, and it will, they will have given away the only means they have of stopping or slowing appointment candidates they oppose.'
 p58058
 (dp58059
@@ -161826,7 +161826,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p58581
 tp58582
 bsbsg50
-I1
+I-1
 ssS' Hence Obamacare would provide insurance for 30 million uninsured, while giving everybody tons of free medical services \xe2\x80\x94 without adding \xe2\x80\x9cone dime to our deficits,\xe2\x80\x9d promised Obama.'
 p58583
 (dp58584
@@ -163135,7 +163135,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p59054
 tp59055
 bsbsg50
-I1
+I-1
 ssS'  Unusual.'
 p59056
 (dp59057
@@ -163411,7 +163411,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p59154
 tp59155
 bsbsg50
-I1
+I-1
 ssS' look it up if you care to.'
 p59156
 (dp59157
@@ -165686,7 +165686,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p59977
 tp59978
 bsbsg50
-I1
+I-1
 ssS'\nhttp://www.'
 p59979
 (dp59980
@@ -166100,7 +166100,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p60127
 tp60128
 bsbsg50
-I1
+I-1
 ssS' \n\nI am so convinced I am correct I cannot fathom how anyone could disagree. PUNCxUPPERCASE'
 p60129
 (dp60130
@@ -167273,7 +167273,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p60552
 tp60553
 bsbsg50
-I1
+I-1
 ssS'Bill Maher is an anti-vaccine nut who thinks all guns should be confiscated and the second amendment repealed.'
 p60554
 (dp60555
@@ -167687,7 +167687,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p60702
 tp60703
 bsbsg50
-I1
+I-1
 ssS" We have about 50 Rural Development homebuyers who can't proceed with their purchase because of the shutdown."
 p60704
 (dp60705
@@ -167825,7 +167825,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p60752
 tp60753
 bsbsg50
-I1
+I-1
 ssS'\xe2\x80\x9d \n\n&gt;He adds: \xe2\x80\x9cIncluding some of the people who got elected as tea-party candidates from the South.'
 p60754
 (dp60755
@@ -168101,7 +168101,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p60852
 tp60853
 bsbsg50
-I1
+I-1
 ssS' For him take this advice would make my head explode.'
 p60854
 (dp60855
@@ -168860,7 +168860,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p61127
 tp61128
 bsbsg50
-I1
+I-1
 ssS" Obama supporters aren't open-minded enough to entertain the thought of something remotely critical of The Messiah\xe2\x84\xa2."
 p61129
 (dp61130
@@ -169274,7 +169274,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p61277
 tp61278
 bsbsg50
-I1
+I-1
 ssS'\n\nedit: 17 republicans - the number required to pass the senate bill - have already said they would vote yes.'
 p61279
 (dp61280
@@ -169688,7 +169688,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p61427
 tp61428
 bsbsg50
-I1
+I-1
 ssS'Is this censorship? PUNCxQUESTION_MARK'
 p61429
 (dp61430
@@ -170792,7 +170792,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p61827
 tp61828
 bsbsg50
-I1
+I-1
 ssS' He is replacing them with people like Mike Mullen who are essentially social activists promoted by Senate Democrats since the 90s to further that agenda.'
 p61829
 (dp61830
@@ -170930,7 +170930,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p61877
 tp61878
 bsbsg50
-I1
+I-1
 ssS"&gt; I know you're terrified that your little experiment is dying\n\nYou keep telling yourself that if it helps you sleep at night."
 p61879
 (dp61880
@@ -171275,7 +171275,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p62002
 tp62003
 bsbsg50
-I1
+I-1
 ssS"  That's the whole point of a union strike! PUNCxEXCLAMATION_POINT"
 p62004
 (dp62005
@@ -172308,7 +172308,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p62375
 tp62376
 bsbsg50
-I1
+I-1
 ssS' Lewis.'
 p62377
 (dp62378
@@ -172584,7 +172584,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p62475
 tp62476
 bsbsg50
-I1
+I-1
 ssS' Are we seeing dems jump the Obama ship because they know it is going to sink? PUNCxQUESTION_MARK'
 p62477
 (dp62478
@@ -173067,7 +173067,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p62650
 tp62651
 bsbsg50
-I1
+I-1
 ssS' What about them being "lousy policies" is making companies drop these plans? PUNCxQUESTION_MARK'
 p62652
 (dp62653
@@ -173755,7 +173755,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p62898
 tp62899
 bsbsg50
-I1
+I-1
 ssS'  \n\nThe United States is not "other countries".'
 p62900
 (dp62901
@@ -177065,7 +177065,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p64096
 tp64097
 bsbsg50
-I1
+I-1
 ssS'This is old news...'
 p64098
 (dp64099
@@ -177755,7 +177755,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00'
 p64346
 tp64347
 bsbsg50
-I1
+I-1
 ssS'\n\n["If it\'s too good to be true...'
 p64348
 (dp64349
@@ -178652,7 +178652,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p64671
 tp64672
 bsbsg50
-I1
+I-1
 ssS"\n\nIf I had insurance, the deductible being higher, those visits wouldn't get paid."
 p64673
 (dp64674
@@ -178790,7 +178790,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p64721
 tp64722
 bsbsg50
-I1
+I-1
 ssS'Sadly, they already have.'
 p64723
 (dp64724
@@ -179342,7 +179342,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p64921
 tp64922
 bsbsg50
-I1
+I-1
 ssS'usa.'
 p64923
 (dp64924
@@ -180860,7 +180860,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p65471
 tp65472
 bsbsg50
-I1
+I-1
 ssS"\n\nHere is an op-ed he wrote that explains his position pretty well:  [Those Who Say 'I Support the Troops' Really Don't](http://www."
 p65473
 (dp65474
@@ -181688,7 +181688,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p65771
 tp65772
 bsbsg50
-I1
+I-1
 ssS'I wish more people understood the specifics of the ACA that created the situation that this woman finds herself in. PUNCxUPPERCASE'
 p65773
 (dp65774
@@ -182102,7 +182102,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p65921
 tp65922
 bsbsg50
-I1
+I-1
 ssS'  But, what that letter described is something wholly different.'
 p65923
 (dp65924
@@ -184582,7 +184582,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p66817
 tp66818
 bsbsg50
-I1
+I-1
 ssS' All children are eligible for the program and the cost is a sliding scale (working poor pay less).'
 p66819
 (dp66820
@@ -184858,7 +184858,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p66917
 tp66918
 bsbsg50
-I1
+I-1
 ssS'Jesus Christ the feels...'
 p66919
 (dp66920
@@ -186719,7 +186719,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p67590
 tp67591
 bsbsg50
-I1
+I-1
 ssS'Who has a 40% approval rating? PUNCxQUESTION_MARK'
 p67592
 (dp67593
@@ -188582,7 +188582,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p68265
 tp68266
 bsbsg50
-I1
+I-1
 ssS"\n\nBesides, anyone who thinks celebrating Christmas necessarily has anything to do with religion hasn't been paying attention."
 p68267
 (dp68268
@@ -189065,7 +189065,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p68440
 tp68441
 bsbsg50
-I1
+I-1
 ssS'\xe2\x80\x9d'
 p68442
 (dp68443
@@ -189201,7 +189201,7 @@ S'\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x
 p68488
 tp68489
 bsbsg50
-I1
+I-1
 ssS' I also angers me to hear the President and his Administration callously make statements about it only affecting a small percentage of the people.'
 p68490
 (dp68491
